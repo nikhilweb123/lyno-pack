@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lynopack.com/sitemap.xml
+Host: lynopack.com

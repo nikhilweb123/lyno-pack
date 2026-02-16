@@ -1,0 +1,1696 @@
+{
+  "navigation": {
+    "wrapping-machines": {
+      "name": "Wrapping Machines",
+      "subcategories": [
+        "pallet-stretch-wrapping-machines",
+        "box-stretch-wrapping-machines",
+        "orbit-stretch-wrapping-machines"
+      ]
+    },
+    "taping-machines": {
+      "name": "Taping Machines",
+      "subcategories": [
+        "standard-taping-machines",
+        "autonomous-taping-machines"
+      ]
+    },
+    "conveyor": {
+      "name": "Conveyor",
+      "subcategories": [
+        "conveyor"
+      ]
+    },
+    "lift-auto-door-mechanism": {
+      "name": "Lift Auto Door Mechanism",
+      "subcategories": [
+        "lift-auto-door-mechanism-s-series",
+        "lift-auto-door-mechanism-f-series",
+        "lift-auto-door-mechanism-parts"
+      ]
+    }
+  },
+  "categories": {
+    "pallet-stretch-wrapping-machines": {
+      "name": "Pallet Stretch Wrapping Machines",
+      "description": "Secure your palletized loads with our high-performance stretch wrapping machines, ensuring stability and protection during transport.",
+      "products": [
+        "LPW100S",
+        "LPW100F",
+        "LPW200MT",
+        "LPW300TP",
+        "LPW100AS",
+        "LPW100AF",
+        "LPW200AMT",
+        "LPW300ATP",
+        "LPW100ARA",
+        "LPW200ART",
+        "LPW300AO"
+      ]
+    },
+    "box-stretch-wrapping-machines": {
+      "name": "Box Stretch Wrapping Machines",
+      "description": "Compact and efficient wrapping solutions for individual boxes and smaller packages.",
+      "products": [
+        "LPW100SB",
+        "LPW200FB",
+        "LPW300TPB"
+      ]
+    },
+    "orbit-stretch-wrapping-machines": {
+      "name": "Orbit Stretch Wrapping Machines",
+      "description": "Orbital wrappers designed for securing long, ring-shaped, or irregular products.",
+      "products": [
+        "LPW100AHO",
+        "LPW200AVC",
+        "LPW200AHC",
+        "LPW300AR"
+      ]
+    },
+    "standard-taping-machines": {
+      "name": "Standard Taping Machines",
+      "description": "Reliable carton sealing machines for standard production lines.",
+      "products": [
+        "LPT100M",
+        "LPT200S",
+        "LPT300F"
+      ]
+    },
+    "autonomous-taping-machines": {
+      "name": "Autonomous Taping Machines",
+      "description": "Fully automated taping solutions for high-speed, unmanned packaging operations.",
+      "products": [
+        "LPT100ARS",
+        "LPT200ARF",
+        "LPT300ARC",
+        "LPT400ARCE"
+      ]
+    },
+    "conveyor": {
+      "name": "Conveyor Systems",
+      "description": "Robust conveyor systems to streamline your material handling and packaging workflow.",
+      "products": [
+        "LPC100BC",
+        "LPC100CT",
+        "LPC100FR",
+        "LPC100PT",
+        "LPC100PR"
+      ]
+    },
+    "lift-auto-door-mechanism-s-series": {
+      "name": "Lift Auto Door Mechanism - S Series",
+      "description": "Premium S-Series lift door mechanisms for smooth and reliable elevator operation.",
+      "products": [
+        "JLT-S-Center-Car",
+        "JLT-S-Center-Landing",
+        "JLT-S-Telescopic-Car",
+        "JLT-S-Telescopic-Landing"
+      ]
+    },
+    "lift-auto-door-mechanism-f-series": {
+      "name": "Lift Auto Door Mechanism - F Series",
+      "description": "Durable F-Series lift door mechanisms designed for high-traffic commercial elevators.",
+      "products": [
+        "JLT-F-Center-Car",
+        "JLT-F-Center-Landing",
+        "JLT-F-Telescopic-Car",
+        "JLT-F-Telescopic-Landing"
+      ]
+    },
+    "lift-auto-door-mechanism-parts": {
+      "name": "Lift Auto Door Mechanism - Parts",
+      "description": "Genuine spare parts for S-Series and F-Series lift door mechanisms.",
+      "products": [
+        "JLT-Parts-S",
+        "JLT-Parts-F"
+      ]
+    }
+  },
+  "products": {
+    "LPW100S": {
+      "name": "LPW100S",
+      "title": "Manual Adjust Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "LYNOPACK LPW100S is a semi-automatic manual adjust stretch wrapping machine designed for secure and economical pallet wrapping. It is an ideal solution for warehouses, logistics centers, and small to medium manufacturing units. The machine allows manual adjustment of film tension and wrapping height, ensuring stable load containment making it easy to operate on the shop floor. LPW100S is suitable for wrapping palletized loads of different sizes using standard stretch film. The sturdy construction ensures long service life, while the simple operating mechanism makes it user-friendly and low maintenance.",
+      "features": [
+        "Manual film tension adjustment",
+        "Height adjustable mast",
+        "Smooth film carriage movement",
+        "Heavy-duty base",
+        "Easy operation, no power required"
+      ],
+      "applications": [
+        "Warehousing",
+        "FMCG",
+        "Pharmaceuticals",
+        "Logistics",
+        "Export packaging"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW100F": {
+      "name": "LPW100F",
+      "title": "Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "The LYNOPACK LPW100F is a pallet stretch wrapping machine designed for reliable and consistent pallet wrapping applications. It is suitable for intensive day-to-day operations while ensuring stable load containment and optimized stretch film usage. Built with a robust structure and user-friendly operation, LPW100F provides precise control over the wrapping process, helping improve packaging efficiency and reduce film wastage. The machine is ideal for warehouses, logistics centers, and manufacturing units looking for a dependable pallet wrapping solution. Designed to meet modern packaging requirements, the LPW100F ensures better load safety during transportation while saving time, labor, and packaging resources.",
+      "features": [
+        "Reliable and consistent wrapping performance",
+        "Precise film tension control",
+        "Robust structure for heavy-duty use",
+        "User-friendly operation",
+        "Optimized stretch film usage"
+      ],
+      "applications": [
+        "Warehousing",
+        "Logistics centers",
+        "Manufacturing units",
+        "Transportation packaging"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW200MT": {
+      "name": "LPW200MT",
+      "title": "M-Type Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "The LPW200MT M-Type Pallet Stretch Wrapping Machine is designed for effortless pallet loading and unloading using a forklift or manual stacker. Its unique \"M\" shaped turntable allows pallets to enter the machine directly without lifting, reducing manual handling.",
+      "features": [
+        "Easy Loading/Unloading: M-shaped cutout ensures smooth entry for pallet jacks or stackers",
+        "Semi-Automatic/Automatic Operation: Simply place the pallet, and the machine wraps it efficiently",
+        "Safety & Stability: Photo-eye sensors detect pallet height while the stretch film secures the load for safe transport and storage",
+        "Material Efficiency: Power pre-stretch unit optimizes film use, reducing material costs by up to 250%"
+      ],
+      "working_principle": [
+        "Place the pallet on the M-shaped turntable using a forklift or pallet jack.",
+        "Attach the film or let the automated system handle it.",
+        "The turntable rotates while the film carriage moves up and down, wrapping the pallet evenly.",
+        "Film is cut and secured automatically or manually.",
+        "Remove the wrapped pallet for transport."
+      ],
+      "applications": [
+        "Warehousing",
+        "FMCG",
+        "Logistics",
+        "Manufacturing"
+      ],
+      "benefits": [
+        "No pallet lifting required for loading",
+        "Efficient and cost-effective pallet wrapping",
+        "Reduced manual handling and labor",
+        "Safe, continuous, and reliable operation"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW300TP": {
+      "name": "LPW300TP",
+      "title": "Top Press Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "The LPW300TP Top Press Pallet Stretch Wrapping Machine is specially designed to secure lightweight, loose, or uneven pallet loads with maximum stability. It features a top press plate that applies controlled downward pressure during the wrapping cycle, preventing load shifting or toppling during handling and transportation.",
+      "features": [
+        "Top Press Plate: Pneumatically or hydraulically operated plate firmly holds the load from the top during wrapping",
+        "Automatic Operation: Automated film wrapping, cutting, and securing reduces manual labor and improves efficiency",
+        "High Load Stability: Compresses the load to eliminate gaps, ensuring tight and stable pallet wrapping",
+        "Protection: Stretch film provides excellent dust and moisture protection for stored or transported goods"
+      ],
+      "working_principle": [
+        "The operator places the pallet on the turntable and starts the cycle.",
+        "The top press plate descends to secure the load.",
+        "The turntable rotates while the film carriage moves vertically, wrapping the pallet evenly.",
+        "After wrapping, the top press lifts and the pallet is ready for transport."
+      ],
+      "applications": [
+        "Food & Beverage",
+        "Electronics",
+        "Chemicals",
+        "Pharmaceuticals",
+        "Building materials"
+      ],
+      "benefits": [
+        "Superior load integrity and stability",
+        "Prevents load shifting during transport",
+        "Automated wrapping reduces labor",
+        "Excellent dust and moisture protection"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW100AS": {
+      "name": "LPW100AS",
+      "title": "Autonomous Semi Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "LYNOPACK LPW100AS is an advanced semi-automatic stretch wrapping machine designed for efficient, consistent, and secure pallet wrapping. Equipped with automatic film clamping and cutting, it reduces manual intervention and improves productivity, making it ideal for modern warehouses, logistics centers, and manufacturing units. This model offers automatic wrapping cycles with precise film tension control, ensuring excellent load stability and uniform wrapping quality. Its user-friendly control system allows easy operation on the shop floor while maintaining high packaging efficiency. The LPW100AS is suitable for wrapping palletized loads of various sizes using standard stretch film. Built with a robust structure, the machine ensures long service life, low maintenance, and reliable performance in demanding industrial environments.",
+      "features": [
+        "Automatic film clamping and cutting system",
+        "Pre-set wrapping programs",
+        "Adjustable wrapping height",
+        "Smooth and stable film carriage movement",
+        "Heavy-duty base construction",
+        "User-friendly control panel",
+        "Low maintenance and high operational efficiency",
+        "Remote operated control system"
+      ],
+      "applications": [
+        "Warehousing",
+        "FMCG",
+        "Pharmaceuticals",
+        "Logistics",
+        "Export packaging",
+        "General manufacturing industries"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW100AF": {
+      "name": "LPW100AF",
+      "title": "Autonomous Fully Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "LYNOPACK LPW100AF is an autonomous, fully automatic pallet stretch wrapping machine designed for maximum efficiency, consistency, and hands-free operation. Compared to the LPW100AS, this advanced model is equipped with an automatic film pasting system, which securely pastes the stretch film at the end of the wrapping cycle, ensuring a clean and professional finish without manual intervention. The machine performs the complete wrapping process automatically—including film clamping, wrapping, cutting, and end-cycle film pasting—delivering superior load stability and reduced operator involvement. Its intelligent control system ensures precise film tension and uniform wrapping for pallets of varying sizes. The LPW100AF is ideal for high-throughput packaging environments where speed, reliability, and consistent wrap quality are critical. Built with a heavy-duty structure, it ensures long service life, low maintenance, and dependable performance.",
+      "features": [
+        "Fully autonomous operation",
+        "Automatic film clamping, cutting, and end-cycle film pasting",
+        "Advanced control system for precise wrapping",
+        "Adjustable wrapping height",
+        "Smooth film carriage movement",
+        "Heavy-duty base and robust construction",
+        "Minimal operator intervention",
+        "High productivity with consistent wrapping quality"
+      ],
+      "applications": [
+        "Warehousing",
+        "FMCG",
+        "Pharmaceuticals",
+        "Logistics",
+        "Export packaging",
+        "Food & Beverage",
+        "Manufacturing industries"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW200AMT": {
+      "name": "LPW200AMT",
+      "title": "Autonomous M-Type Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "The LYNOPACK LPW200AMT Autonomous M-Type Pallet Stretch Wrapping Machine is designed for effortless pallet loading and unloading using a forklift or manual stacker. Its unique \"M\"-shaped turntable allows direct pallet entry without lifting, significantly reducing manual handling and improving operator safety. This advanced model features fully autonomous operation, including automatic film clamping, cutting, and end-cycle film pasting, ensuring a clean, secure, and professional wrap finish without manual intervention.",
+      "features": [
+        "Easy Loading / Unloading: M-shaped cutout enables smooth entry for pallet jacks and stackers",
+        "Fully Autonomous Operation: Automatic wrapping cycle with minimal operator involvement",
+        "Auto Film Clamping, Cutting & Pasting: Ensures proper film start and secure film sealing at the end of the cycle",
+        "Safety & Stability: Photo-eye sensors automatically detect pallet height for accurate wrapping",
+        "Material Efficiency: Power pre-stretch unit optimizes stretch film usage, reducing material costs by up to 250%",
+        "Consistent Wrapping Quality: Uniform tension and tight load containment for safe transport and storage"
+      ],
+      "working_principle": [
+        "Place the pallet on the M-shaped turntable using a forklift or pallet jack",
+        "Start the cycle; the machine automatically clamps the film",
+        "The turntable rotates while the film carriage moves vertically, wrapping the pallet evenly",
+        "At the end of the cycle, the film is automatically cut and pasted securely",
+        "Remove the wrapped pallet, ready for transport or storage"
+      ],
+      "applications": [
+        "Warehousing",
+        "FMCG",
+        "Logistics",
+        "Manufacturing",
+        "Export packaging"
+      ],
+      "benefits": [
+        "Highly efficient and safe pallet wrapping",
+        "No pallet lifting required",
+        "Minimal manpower for continuous operation",
+        "Professional wrap finish every cycle"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW300ATP": {
+      "name": "LPW300ATP",
+      "title": "Autonomous Top Press Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_1.jpeg",
+      "description": "The LYNOPACK LPW300ATP Autonomous Top Press Pallet Stretch Wrapping Machine is designed to secure lightweight, loose, or uneven pallet loads with maximum stability and fully hands-free operation. It combines a top press plate with fully autonomous stretch wrapping, ensuring superior load containment during handling and transportation. This advanced model features automatic film clamping, cutting, and end-cycle film pasting, delivering a clean, secure wrap finish without manual intervention. The top press system applies controlled downward pressure throughout the wrapping cycle, preventing load shifting or toppling.",
+      "features": [
+        "Top Press Plate: Pneumatically or hydraulically operated plate firmly holds the load from the top during wrapping",
+        "Fully Autonomous Operation: Complete automatic wrapping cycle with minimal operator involvement",
+        "Auto Film Clamping, Cutting & Pasting: Ensures proper film start and secure film sealing at the end of the cycle",
+        "High Load Stability: Compresses loads to eliminate gaps, ensuring tight and stable pallet wrapping",
+        "Advanced Safety System: Photo-eye sensors automatically detect pallet height for precise wrapping",
+        "Protection: Stretch film provides excellent dust and moisture protection during storage and transit",
+        "Consistent Wrapping Quality: Uniform film tension for professional packaging results"
+      ],
+      "working_principle": [
+        "The operator places the pallet on the turntable and starts the cycle",
+        "The top press plate descends to securely hold the load",
+        "The turntable rotates while the film carriage moves vertically, wrapping the pallet evenly",
+        "At the end of the cycle, the film is automatically cut and pasted",
+        "The top press lifts, and the wrapped pallet is ready for transport"
+      ],
+      "applications": [
+        "Food & Beverage",
+        "Electronics",
+        "Chemicals",
+        "Pharmaceuticals",
+        "Building materials",
+        "Logistics",
+        "Export packaging"
+      ],
+      "benefits": [
+        "Maximum load integrity, safety, and productivity",
+        "Fully autonomous hands-free operation",
+        "Superior load containment for unstable loads",
+        "Professional packaging results every cycle"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW100ARA": {
+      "name": "LPW100ARA",
+      "title": "Autonomous Rotary Arm Fully Automatic Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_2.jpeg",
+      "description": "The LYNOPACK LPW100ARA is an autonomous rotary arm pallet stretch wrapping machine designed for high-throughput, space-efficient, and fully automatic pallet packaging. Unlike traditional turntable machines, the rotary arm rotates the film carriage around a stationary pallet, making it ideal for heavy, unstable, or very light loads that cannot be rotated safely.",
+      "core_functionality": [
+        "Rotary Arm Wrapping System: The wrapping arm rotates smoothly around the pallet while the load remains stationary, ensuring stable and uniform film application.",
+        "Fully Automatic & Autonomous Operation: Automatic film clamping, cutting, and secure tail pasting eliminate manual intervention and improve cycle consistency.",
+        "No Pallet Rotation Required: Ideal for fragile, heavy, or irregular loads that may topple on turntable-based machines."
+      ],
+      "features": [
+        "Autonomous Operation: Auto film clamping, cutting, and end-of-cycle pasting",
+        "Power Pre-Stretch Unit: Optimizes film usage and reduces stretch film consumption",
+        "Photo-Eye Sensor: Automatically detects pallet height for precise wrapping",
+        "PLC Controlled System: Ensures consistent performance and easy operation",
+        "Heavy-Duty Rotary Arm: Designed for continuous industrial use",
+        "Enhanced Safety: Integrated safety sensors and emergency stop system"
+      ],
+      "working_principle": [
+        "The pallet is positioned in the wrapping zone using a forklift or conveyor.",
+        "The film is automatically clamped to the pallet base.",
+        "The rotary arm rotates around the stationary load while the film carriage moves vertically.",
+        "Stretch film is applied evenly with controlled tension for maximum load stability.",
+        "At cycle completion, the film is automatically cut and securely pasted.",
+        "The wrapped pallet is ready for transport or storage."
+      ],
+      "applications": [
+        "FMCG and food & beverage industries",
+        "Pharmaceuticals and healthcare packaging",
+        "Chemicals and building materials",
+        "Export and logistics operations",
+        "Heavy, fragile, or unstable pallet loads"
+      ],
+      "benefits": [
+        "Eliminates load instability caused by pallet rotation",
+        "Suitable for high-speed and continuous packaging lines",
+        "Reduces labor dependency and operational errors",
+        "Ensures superior load containment and protection"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW200ART": {
+      "name": "LPW200ART",
+      "title": "Autonomous Ring Type High-Speed Fully Automatic Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_3.jpeg",
+      "description": "The LYNOPACK LPW200ART is an autonomous ring type pallet stretch wrapping machine engineered for high-speed, continuous, and fully automatic pallet packaging operations. Its advanced rotating ring technology enables extremely fast and consistent wrapping, making it ideal for high-volume production lines and automated logistics environments.",
+      "core_functionality": [
+        "Ring Type Wrapping System: A high-speed rotating ring carries the film carriage around a stationary pallet, ensuring uniform wrapping without rotating the load.",
+        "Fully Automatic & Autonomous Operation: Automatic film clamping, cutting, and secure end-of-cycle pasting eliminate manual handling and maximize productivity.",
+        "Stationary Pallet Wrapping: Heavy, unstable, or fragile pallets remain fixed during wrapping, ensuring superior load stability."
+      ],
+      "features": [
+        "High-Speed Wrapping Performance: Designed for continuous, high-throughput pallet wrapping",
+        "Power Pre-Stretch System: Optimizes film usage and significantly reduces material consumption",
+        "PLC & HMI Control Panel: User-friendly operation with programmable wrapping cycles",
+        "Automatic Height Detection: Photo-eye sensors adjust wrapping height precisely",
+        "Heavy-Duty Ring Structure: Built for long-life industrial operation",
+        "Advanced Safety System: Safety fencing, sensors, and emergency stops for operator protection"
+      ],
+      "working_principle": [
+        "The pallet is conveyed or positioned into the wrapping station.",
+        "The film is automatically clamped to the pallet base.",
+        "The rotating ring spins at high speed around the stationary pallet while the film carriage moves vertically.",
+        "Stretch film is applied with controlled tension for maximum load containment.",
+        "At the end of the cycle, the film is automatically cut and securely pasted.",
+        "The wrapped pallet exits the machine, ready for storage or dispatch."
+      ],
+      "applications": [
+        "High-volume FMCG and food & beverage plants",
+        "Automated warehouses and distribution centers",
+        "Export packaging operations",
+        "Heavy, tall, or unstable pallet loads",
+        "Fully automated conveyor-based packaging lines"
+      ],
+      "benefits": [
+        "Extremely high wrapping speed and throughput",
+        "Zero load rotation ensures maximum stability",
+        "Reduced film consumption and operational cost",
+        "Seamless integration with automated production lines",
+        "Minimal manual intervention and consistent wrap quality"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW300AO": {
+      "name": "LPW300AO",
+      "title": "Autonomous Online Fully Automatic Pallet Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_4.jpeg",
+      "description": "The LYNOPACK LPW300AO is an autonomous online pallet stretch wrapping machine designed for fully automatic, continuous, and high-efficiency pallet packaging. This model is engineered to operate inline with conveyor systems, eliminating manual pallet handling and making it ideal for modern automated production and logistics facilities.",
+      "core_functionality": [
+        "Online Inline Wrapping System: The machine integrates directly into conveyor lines, allowing pallets to enter, wrap, and exit automatically without forklift intervention.",
+        "Fully Automatic & Autonomous Operation: Automatic film clamping, cutting, and secure end-of-cycle pasting ensure consistent wrapping with zero manual input.",
+        "Continuous Production Flow: Designed for nonstop operation, supporting high-volume packaging environments."
+      ],
+      "features": [
+        "Power Pre-Stretch Film Unit: Reduces stretch film consumption while maintaining strong load containment",
+        "PLC & HMI Control System: Enables programmable wrapping cycles and easy operation",
+        "Automatic Pallet Height Detection: Photo-eye sensors ensure accurate wrapping for varying pallet heights",
+        "Heavy-Duty Industrial Construction: Built for long-term, continuous use",
+        "Advanced Safety System: Safety guards, interlocks, and emergency stop functions",
+        "Seamless Automation Integration: Compatible with conveyors, palletizers, and warehouse automation systems"
+      ],
+      "working_principle": [
+        "Pallets arrive automatically via conveyor into the wrapping station.",
+        "The film is automatically clamped at the pallet base.",
+        "The wrapping system applies stretch film uniformly around the pallet while it remains in position.",
+        "After wrapping, the film is automatically cut and securely pasted.",
+        "The wrapped pallet exits the machine and continues along the conveyor line."
+      ],
+      "applications": [
+        "FMCG and food & beverage manufacturing plants",
+        "Pharmaceutical and chemical industries",
+        "Automated warehouses and distribution centers",
+        "Export-oriented packaging lines",
+        "High-throughput production environments"
+      ],
+      "benefits": [
+        "Eliminates manual pallet handling and wrapping labor",
+        "Ensures consistent, high-quality pallet wrapping",
+        "Increases line efficiency and packaging throughput",
+        "Reduces film usage and operating costs",
+        "Ideal for fully automated packaging lines"
+      ],
+      "category_name": "Pallet Stretch Wrapping Machines"
+    },
+    "LPW100SB": {
+      "name": "LPW100SB",
+      "title": "Semi-Automatic Box Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_5.jpeg",
+      "description": "The LYNOPACK LPW100SB is a semi-automatic box stretch wrapping machine designed as a cost-effective and compact packaging solution for lightweight and uniform cartons. This model is engineered without a pre-stretch unit and without height travel, making it ideal for businesses seeking simple operation, low power consumption, and reliable wrapping performance.",
+      "core_functionality": [
+        "Wrapping-Only Operation: The box is placed on the rotating turntable while the stretch film is applied at a fixed height, ensuring consistent wrapping for standard box sizes.",
+        "No Pre-Stretch System: Film stretching is achieved through manual tension control, using resistance from the film roll instead of a motorized pre-stretch mechanism.",
+        "Fixed Film Carriage (No Height Travel): The film dispenser remains at a fixed position, making the machine best suited for box heights equal to or less than the film roll width."
+      ],
+      "features": [
+        "Adjustable turntable speed via VFD control",
+        "Manual film tension adjustment",
+        "Heavy-duty turntable for smooth rotation",
+        "Compact footprint for easy installation",
+        "Low power consumption with single-phase 220V supply"
+      ],
+      "applications": [
+        "Lightweight cartons and boxes",
+        "Garments and textile packaging",
+        "Small electronics and accessories",
+        "Pharmaceutical and cosmetic cartons",
+        "Low-volume packaging operations (20–40 boxes per hour)"
+      ],
+      "benefits": [
+        "Simple, economical, and reliable box wrapping solution",
+        "Ideal for small businesses, warehouses, and logistics operations",
+        "No complex automation required",
+        "Low power consumption and maintenance"
+      ],
+      "category_name": "Box Stretch Wrapping Machines"
+    },
+    "LPW200FB": {
+      "name": "LPW200FB",
+      "title": "Fully Automatic Box Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_5.jpeg",
+      "description": "The LYNOPACK LPW200FB is a fully automatic box stretch wrapping machine designed for high-efficiency, uniform, and professional carton wrapping. Equipped with a power pre-stretch unit and automatic up-down film carriage movement, this model ensures consistent wrapping quality, improved load stability, and reduced stretch film consumption.",
+      "core_functionality": [
+        "Fully Automatic Wrapping Operation: Automatic film clamping, wrapping, cutting, and secure end-cycle sealing ensure hands-free operation and high productivity.",
+        "Power Pre-Stretch Unit: Motorized pre-stretch system optimizes film usage, delivering strong load containment while significantly reducing material cost.",
+        "Automatic Up-Down Film Carriage: The film carriage moves vertically during the wrapping cycle, allowing efficient wrapping of boxes with different heights."
+      ],
+      "features": [
+        "Fully automatic operation with minimal operator intervention",
+        "Power pre-stretch system for reduced film consumption",
+        "Automatic vertical (up-down) film carriage movement",
+        "PLC controlled system with user-friendly HMI",
+        "Consistent and uniform wrapping tension",
+        "Heavy-duty construction for continuous operation",
+        "Low maintenance and reliable performance"
+      ],
+      "working_principle": [
+        "The box is placed on the turntable or conveyed into the wrapping station.",
+        "The film is automatically clamped at the base of the box.",
+        "The turntable rotates while the film carriage moves up and down, wrapping the box evenly.",
+        "Stretch film is applied with controlled tension using the pre-stretch unit.",
+        "At the end of the cycle, the film is automatically cut and securely sealed.",
+        "The wrapped box is ready for storage or dispatch."
+      ],
+      "applications": [
+        "Carton and box packaging operations",
+        "FMCG and food & beverage industries",
+        "Pharmaceuticals and cosmetics",
+        "Electronics and consumer goods",
+        "Warehousing, logistics, and export packaging"
+      ],
+      "benefits": [
+        "Professional and uniform box wrapping",
+        "Reduced stretch film usage and operating cost",
+        "Supports different box heights",
+        "Improved product protection against dust and moisture",
+        "Suitable for medium to high-volume packaging operations"
+      ],
+      "category_name": "Box Stretch Wrapping Machines"
+    },
+    "LPW300TPB": {
+      "name": "LPW300TPB",
+      "title": "Top Press Box Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_5.jpeg",
+      "description": "The LYNOPACK LPW300TPB is a top press box stretch wrapping machine designed to securely wrap lightweight, loose, or unstable boxes with maximum stability. It features a top press system that applies controlled downward pressure during the wrapping cycle, preventing box movement and ensuring a tight, uniform wrap.",
+      "core_functionality": [
+        "Top Press Stabilization: The top press plate holds the box firmly from above while wrapping, eliminating shifting or tilting during rotation.",
+        "Consistent Box Wrapping: Ensures uniform stretch film application, improving load stability and professional packaging quality.",
+        "Enhanced Protection: Stretch film provides excellent protection against dust, moisture, and handling damage."
+      ],
+      "features": [
+        "Pneumatic or hydraulic top press plate for stable box positioning",
+        "Automatic wrapping cycle for consistent results",
+        "Uniform film tension control for tight wrapping",
+        "Suitable for lightweight and irregular boxes",
+        "Heavy-duty base construction for smooth operation",
+        "User-friendly control panel",
+        "Low maintenance and reliable performance"
+      ],
+      "working_principle": [
+        "The box is placed on the turntable.",
+        "The top press plate descends to secure the box.",
+        "The turntable rotates while stretch film is applied evenly around the box.",
+        "After wrapping, the top press plate lifts.",
+        "The wrapped box is ready for storage or dispatch."
+      ],
+      "applications": [
+        "Lightweight cartons and boxes",
+        "FMCG and food packaging",
+        "Pharmaceuticals and cosmetics",
+        "Electronics and consumer goods",
+        "Warehousing, logistics, and export packaging"
+      ],
+      "benefits": [
+        "Prevents box movement during wrapping",
+        "Ensures tight, stable, and professional packaging",
+        "Reduces product damage during handling",
+        "Improves packaging efficiency and consistency"
+      ],
+      "category_name": "Box Stretch Wrapping Machines"
+    },
+    "LPW100AHO": {
+      "name": "LPW100AHO",
+      "title": "Autonomous Horizontal Orbit Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_6.jpeg",
+      "description": "The LYNOPACK LPW100AHO is an autonomous horizontal orbit stretch wrapping machine designed for efficient, secure, and fully automatic wrapping of long, flat, or bundled products. Unlike pallet wrapping machines, this model uses a horizontal orbital wrapping system, where stretch film is applied by a rotating ring while the product moves or remains positioned on a conveyor.",
+      "core_functionality": [
+        "Horizontal Orbital Wrapping System: A rotating ring carries the stretch film around the product horizontally, ensuring uniform wrapping along the entire length.",
+        "Autonomous Fully Automatic Operation: Automatic film clamping, cutting, and secure end-cycle sealing eliminate manual handling and ensure consistent wrapping quality.",
+        "Continuous Flow Packaging: Designed for inline operation, making it suitable for high-efficiency and continuous production lines."
+      ],
+      "features": [
+        "Autonomous operation with minimal operator intervention",
+        "Automatic film clamping, cutting, and sealing",
+        "Power pre-stretch system for optimized film consumption",
+        "PLC & HMI control system for easy operation and programmable wrapping cycles",
+        "Heavy-duty orbital ring structure for long-term industrial use",
+        "Adjustable wrapping speed and overlap",
+        "Advanced safety system with sensors and emergency stops"
+      ],
+      "working_principle": [
+        "The product is placed on or fed through the conveyor into the wrapping zone.",
+        "The film is automatically clamped to the product.",
+        "The orbital ring rotates horizontally around the product, applying stretch film evenly.",
+        "After wrapping is completed, the film is automatically cut and securely sealed.",
+        "The wrapped product exits the machine, ready for storage or dispatch."
+      ],
+      "applications": [
+        "Pipes, profiles, and rods",
+        "Doors, panels, and boards",
+        "Aluminum, steel, and plastic extrusions",
+        "Furniture components",
+        "Bundled products and long packages"
+      ],
+      "benefits": [
+        "Uniform and secure wrapping for long or flat products",
+        "Reduced film usage and operational costs",
+        "Fully automated, high-efficiency operation",
+        "Improved product protection against dust and moisture",
+        "Seamless integration with conveyor-based production lines"
+      ],
+      "category_name": "Orbit Stretch Wrapping Machines"
+    },
+    "LPW200AVC": {
+      "name": "LPW200AVC",
+      "title": "Autonomous Vertical Coil Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_6.jpeg",
+      "description": "The LYNOPACK LPW200AVC is an autonomous vertical coil stretch wrapping machine designed for secure, uniform, and fully automatic wrapping of metal and non-metal coils. This machine applies stretch film vertically around the coil, ensuring excellent load stability, surface protection, and safe handling during storage and transportation.",
+      "core_functionality": [
+        "Vertical Coil Wrapping System: Stretch film is wrapped vertically around the coil circumference, providing complete coverage and tight containment.",
+        "Autonomous Fully Automatic Operation: Automatic film clamping, cutting, and end-cycle sealing eliminate manual intervention and ensure consistent wrapping quality.",
+        "Heavy-Duty Coil Handling: Designed to handle heavy and bulky coils safely and efficiently."
+      ],
+      "features": [
+        "Fully autonomous operation with minimal operator involvement",
+        "Automatic film clamping, cutting, and sealing",
+        "Power pre-stretch unit to optimize film usage and reduce material cost",
+        "PLC & HMI control system for easy operation and programmable wrapping cycles",
+        "Adjustable wrapping tension and overlap",
+        "Robust industrial construction for continuous operation",
+        "Advanced safety system with sensors and emergency stop functions"
+      ],
+      "working_principle": [
+        "The coil is positioned on the wrapping station using a crane or forklift.",
+        "The stretch film is automatically clamped.",
+        "The wrapping mechanism rotates vertically around the coil, applying stretch film evenly.",
+        "Controlled tension ensures tight and secure wrapping.",
+        "After completion, the film is automatically cut and sealed.",
+        "The wrapped coil is ready for storage or dispatch."
+      ],
+      "applications": [
+        "Steel and aluminium coils",
+        "Copper wire and cable coils",
+        "Plastic and rubber coils",
+        "Industrial hose and tubing coils"
+      ],
+      "benefits": [
+        "Provides excellent coil stability and surface protection",
+        "Prevents damage from dust, moisture, and handling",
+        "Reduces labor dependency and packaging time",
+        "Ensures consistent, professional wrapping quality",
+        "Suitable for heavy-duty and industrial packaging environments"
+      ],
+      "category_name": "Orbit Stretch Wrapping Machines"
+    },
+    "LPW200AHC": {
+      "name": "LPW200AHC",
+      "title": "Autonomous Horizontal Coil Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_6.jpeg",
+      "description": "The LYNOPACK LPW200AHC is an autonomous horizontal coil stretch wrapping machine designed for efficient, secure, and fully automatic wrapping of coils positioned in a horizontal orientation. This machine is ideal for coils that must remain horizontally placed during the wrapping process, ensuring safe handling, uniform film application, and excellent load stability.",
+      "core_functionality": [
+        "Horizontal Coil Wrapping System: The coil is placed horizontally on support rollers, while the wrapping mechanism rotates stretch film around the coil's circumference.",
+        "Fully Autonomous Operation: Automatic film clamping, cutting, and secure end-cycle sealing eliminate manual handling and ensure consistent wrapping quality.",
+        "Stable Coil Handling: Horizontal positioning prevents deformation and allows safe wrapping of heavy or delicate coils."
+      ],
+      "features": [
+        "Autonomous fully automatic operation",
+        "Automatic film clamping, cutting, and sealing",
+        "Power pre-stretch unit for optimized film consumption",
+        "PLC & HMI control system",
+        "Adjustable wrapping speed and tension",
+        "Heavy-duty horizontal support rollers",
+        "Robust industrial construction",
+        "Advanced safety system"
+      ],
+      "working_principle": [
+        "The coil is placed horizontally on the support rollers.",
+        "Film is automatically clamped.",
+        "The wrapping system rotates around the coil, applying stretch film evenly.",
+        "Film is cut and sealed automatically after wrapping.",
+        "Wrapped coil is ready for dispatch."
+      ],
+      "applications": [
+        "Tyre industry (tyre bead coils, tyre wire coils)",
+        "Steel and aluminum coils",
+        "Copper wire and cable coils",
+        "Plastic and rubber coils",
+        "Industrial hoses and tubing coils"
+      ],
+      "benefits": [
+        "Perfect solution for tyre manufacturing and tyre component packaging",
+        "Safe horizontal wrapping for heavy coils",
+        "Uniform and professional wrapping quality",
+        "Reduced labor and packaging time",
+        "Excellent protection against dust and moisture"
+      ],
+      "category_name": "Orbit Stretch Wrapping Machines"
+    },
+    "LPW300AR": {
+      "name": "LPW300AR",
+      "title": "Autonomous Reel Stretch Wrapping Machine",
+      "image": "/assets/img/product_image_6.jpeg",
+      "description": "The LYNOPACK LPW300AR is an autonomous reel stretch wrapping machine engineered for secure, uniform, and high-efficiency wrapping of reels and spools. Designed for fully automatic operation, this machine ensures consistent film application while maintaining reel integrity during storage, handling, and transportation.",
+      "core_functionality": [
+        "Reel-Specific Wrapping System: Designed to wrap reels positioned on dedicated support rollers, allowing smooth rotation and even film coverage across the reel surface.",
+        "Fully Autonomous Operation: Automatic film clamping, stretching, cutting, and end-cycle sealing eliminate manual intervention and ensure repeatable wrapping quality.",
+        "Optimized Film Usage: Integrated power pre-stretch unit reduces film consumption while maintaining strong load containment."
+      ],
+      "features": [
+        "Autonomous fully automatic operation",
+        "Automatic film clamping, cutting, and sealing",
+        "Power pre-stretch unit for material savings",
+        "PLC & HMI touch-screen control system",
+        "Adjustable wrapping speed and film tension",
+        "Heavy-duty reel support rollers",
+        "Robust industrial structure for continuous operation",
+        "Integrated safety guards and emergency systems"
+      ],
+      "working_principle": [
+        "The reel is placed on the support rollers.",
+        "Film is automatically clamped at the start of the cycle.",
+        "The reel rotates while stretch film is applied uniformly.",
+        "Film is cut and securely sealed at cycle completion.",
+        "The wrapped reel is ready for storage or dispatch."
+      ],
+      "applications": [
+        "Cable and wire reels",
+        "Plastic film and paper reels",
+        "Hose and pipe reels",
+        "Textile and fabric rolls",
+        "Industrial material spools"
+      ],
+      "benefits": [
+        "Professional and consistent reel wrapping",
+        "Reduced labor dependency",
+        "Improved load protection and stability",
+        "Efficient packaging with reduced film wastage",
+        "Ideal for high-volume and continuous operations"
+      ],
+      "category_name": "Orbit Stretch Wrapping Machines"
+    },
+    "LPT100M": {
+      "name": "LPT100M",
+      "title": "Mini Case Sealing Machine",
+      "image": "/assets/img/product_image_8.jpeg",
+      "description": "The LYNOPACK LPT100M Mini Case Sealing Machine is a compact and efficient solution designed specifically for sealing small and minimum-size cartons with high consistency and reliability. This semi-automatic machine streamlines packaging operations by applying adhesive tape neatly and securely, ensuring carton integrity during storage and transportation.",
+      "machine_type": "Semi-Automatic Mini Case Sealer",
+      "features": [
+        "Designed for Small Cartons with precision",
+        "Semi-Automatic Operation with automatic tape application",
+        "Consistent Tape Application for professional sealing",
+        "Compact & Space-Saving Design",
+        "User-Friendly Operation with minimal training"
+      ],
+      "applications": [
+        "Food & Beverage",
+        "E-commerce & Logistics",
+        "Pharmaceuticals & Cosmetics",
+        "Manufacturing & Electronics"
+      ],
+      "benefits": [
+        "Higher Packaging Efficiency",
+        "Uniform Seal Quality",
+        "Cost-Effective Solution",
+        "Perfect for Small Box Formats"
+      ],
+      "category_name": "Standard Taping Machines"
+    },
+    "LPT200S": {
+      "name": "LPT200S",
+      "title": "Semi Automatic Case Sealer",
+      "image": "/assets/img/product_image_8.jpeg",
+      "description": "The LYNOPACK LPT200S Semi Automatic Case Sealer is a reliable carton sealing solution designed to seal the top and bottom flaps of corrugated cartons using adhesive tape. It operates on a semi-automatic principle, where carton flaps are folded manually and the machine automatically applies and cuts the tape.",
+      "features": [
+        "Semi-Automatic Operation with automatic tape cutting",
+        "Manual Size Adjustment for varied carton dimensions",
+        "Top & Bottom Sealing for strong, uniform seals",
+        "Durable Construction with heavy-duty steel frame",
+        "Improved Packaging Efficiency",
+        "Easy Mobility with caster wheels"
+      ],
+      "specifications": {
+        "material": "Steel / Mild Steel",
+        "power_supply": "220 V, Single Phase",
+        "power_consumption": "Approx. 240 W",
+        "sealing_speed": "Up to ~1,000 cartons per hour",
+        "max_carton_size": "Approx. 500 × 600 mm",
+        "min_carton_size": "Approx. 140 × 150 mm",
+        "adhesive_tape": "Standard BOPP tape",
+        "transmission_system": "Upper & lower belt drive"
+      },
+      "applications": [
+        "E-commerce & Logistics",
+        "Food & Beverage Processing",
+        "Pharmaceutical Packaging",
+        "Warehousing & Distribution Centers",
+        "General Manufacturing Units"
+      ],
+      "benefits": [
+        "Excellent balance of efficiency and flexibility",
+        "Cost-effective solution",
+        "Professional sealing quality",
+        "Low maintenance requirement"
+      ],
+      "category_name": "Standard Taping Machines"
+    },
+    "LPT300F": {
+      "name": "LPT300F",
+      "title": "Fully Automatic Case Sealer",
+      "image": "/assets/img/product_image_8.jpeg",
+      "description": "The LYNOPACK LPT300F Fully Automatic Case Sealer is an advanced carton sealing machine designed to automatically close and seal the top and bottom flaps of corrugated cartons using adhesive tape. Equipped with an automatic flap closing mechanism, this machine eliminates manual intervention.",
+      "features": [
+        "Fully Automatic Operation with no manual assistance",
+        "Automatic Flap Closing System for uniform closure",
+        "Top & Bottom Sealing for strong, professional carton sealing",
+        "Automatic Size Adjustment for uniform dimensions",
+        "Heavy-Duty Construction with robust steel frame",
+        "High-Speed & Efficient operation",
+        "Line Integration Ready for conveyors and automated lines"
+      ],
+      "specifications": {
+        "material": "Steel / Mild Steel",
+        "power_supply": "220–415 V",
+        "power_consumption": "Approx. 400–600 W",
+        "sealing_speed": "Up to ~1,500 cartons per hour",
+        "carton_size_range": "Designed for uniform carton dimensions",
+        "adhesive_tape": "Standard BOPP adhesive tape",
+        "drive_system": "Upper & lower belt transmission",
+        "flap_closing": "Automatic top flap folding unit"
+      },
+      "applications": [
+        "E-commerce Fulfillment Centers",
+        "Food & Beverage Packaging Lines",
+        "Pharmaceutical & FMCG Industries",
+        "Warehousing & Distribution Hubs",
+        "High-Volume Manufacturing Units"
+      ],
+      "benefits": [
+        "Maximum efficiency and consistency",
+        "Reduced manual handling",
+        "Professional sealing results",
+        "Seamless integration into automated packaging lines"
+      ],
+      "category_name": "Standard Taping Machines"
+    },
+    "LPT100ARS": {
+      "name": "LPT100ARS",
+      "title": "Autonomous Random Semi-Automatic Case Sealer",
+      "image": "/assets/img/product_image_9.jpeg",
+      "description": "The LYNOPACK LPT100ARS Autonomous Random Semi-Automatic Case Sealer is an advanced carton sealing solution designed for random carton sizes with minimal operator intervention. Part of the LYNOPACK Autonomous Series, this machine automatically adjusts both carton width and height.",
+      "features": [
+        "Autonomous Random Size Adjustment with automatic width and height detection",
+        "Semi-Automatic Operation with operator feeding capability",
+        "Air-Assisted Tape Support System for pneumatic positioning",
+        "Top & Bottom Sealing for strong, uniform seals",
+        "Autonomous Series Design with reduced human dependency",
+        "Heavy-Duty Industrial Construction",
+        "Higher Productivity for lines with frequent size changes"
+      ],
+      "specifications": {
+        "material": "Heavy-duty Steel / Mild Steel",
+        "power_supply": "220 V / 415 V",
+        "pneumatic_requirement": true,
+        "sealing_speed": "Up to ~1,200 cartons per hour",
+        "carton_size_handling": "Random width & height cartons",
+        "adhesive_tape": "Standard BOPP tape",
+        "drive_system": "Upper & lower belt transmission"
+      },
+      "applications": [
+        "E-commerce & Fulfillment Centers",
+        "Third-Party Logistics (3PL) Warehouses",
+        "FMCG & Consumer Goods",
+        "Pharmaceutical Packaging",
+        "Distribution & Sorting Facilities"
+      ],
+      "benefits": [
+        "Flexibility of random size adjustment",
+        "Reliability of semi-automatic sealing",
+        "Consistent sealing quality with minimal effort",
+        "Ideal for modern, fast-paced packaging operations"
+      ],
+      "category_name": "Autonomous Taping Machines"
+    },
+    "LPT200ARF": {
+      "name": "LPT200ARF",
+      "title": "Autonomous Random Fully Automatic Case Sealer",
+      "image": "/assets/img/product_image_9.jpeg",
+      "description": "The LYNOPACK LPT200ARF Autonomous Random Fully Automatic Case Sealer is a high-performance carton sealing solution engineered for random carton sizes and fully automated packaging lines. This model automatically adjusts to varying carton width and height and features an integrated automatic flap closing system.",
+      "features": [
+        "Autonomous Random Size Adjustment without manual setting",
+        "Fully Automatic Operation with carton conveying",
+        "Automatic Flap Closing System for uniform closure",
+        "Air-Assisted Tape Application for smooth sealing",
+        "Top & Bottom Sealing for professional packaging",
+        "Autonomous Series Architecture for mixed carton sizes",
+        "Heavy-Duty Industrial Construction"
+      ],
+      "specifications": {
+        "material": "Heavy-Duty Steel / Mild Steel",
+        "power_supply": "220 V / 415 V",
+        "pneumatic_requirement": true,
+        "sealing_speed": "Up to ~1,500 cartons per hour",
+        "carton_handling": "Random width & height cartons",
+        "adhesive_tape": "Standard BOPP tape",
+        "drive_system": "Upper & lower belt transmission",
+        "flap_closing": "Fully automatic top flap folding unit"
+      },
+      "applications": [
+        "E-commerce & Fulfilment Centers",
+        "3PL & Logistics Warehouses",
+        "FMCG & Consumer Goods Packaging",
+        "Pharmaceutical & Healthcare Industries",
+        "Distribution & Sorting Facilities"
+      ],
+      "benefits": [
+        "Random size flexibility with full automation",
+        "Maximum productivity and consistency",
+        "Minimal manual intervention required",
+        "Professional results every cycle"
+      ],
+      "category_name": "Autonomous Taping Machines"
+    },
+    "LPT300ACE": {
+      "name": "LPT300ACE",
+      "title": "Autonomous Corner Edge Case Sealer",
+      "image": "/assets/img/product_image_11.jpeg",
+      "description": "The LYNOPACK LPT300ACE Autonomous Corner Edge Case Sealer is a specialized carton sealing machine designed to reinforce the vertical edges and corner seams of cartons using adhesive tape. Unlike standard case sealers, this machine applies tape on the side edges and corners.",
+      "features": [
+        "Corner & Edge Sealing for vertical side edges",
+        "Autonomous Operation with minimal intervention",
+        "Enhanced Carton Strength preventing edge crushing",
+        "High Adhesion & Precision taping",
+        "Heavy-Duty Construction for continuous operation",
+        "Line Integration Ready with top & bottom sealers"
+      ],
+      "specifications": {
+        "material": "Heavy-Duty Steel / Mild Steel",
+        "power_supply": "220 V / 415 V",
+        "pneumatic_requirement": true,
+        "sealing_type": "Vertical corner & side edge taping",
+        "carton_compatibility": "Standard and heavy-duty corrugated cartons",
+        "adhesive_tape": "BOPP / reinforced filament tape",
+        "operating_mode": "Inline autonomous operation"
+      },
+      "applications": [
+        "Export & International Shipping",
+        "Heavy-Duty Industrial Packaging",
+        "Electronics & Appliance Packaging",
+        "FMCG & Pharmaceutical Cartons",
+        "Warehousing & Distribution Centers"
+      ],
+      "benefits": [
+        "Advanced corner and edge reinforcement",
+        "Superior carton strength and protection",
+        "Essential for export-ready packaging",
+        "Autonomous operation with consistent sealing"
+      ],
+      "category_name": "Autonomous Taping Machines"
+    },
+    "LPT400ARCF": {
+      "name": "LPT400ARCF",
+      "title": "Autonomous Robotics Case Forming Machine",
+      "image": "/assets/img/product_image_12.jpeg",
+      "description": "The LYNOPACK LPT400ARCF Autonomous Robotics Case Forming Machine is a next-generation packaging solution designed to automatically pick, form, and bottom-seal cartons using a robotic arm. This advanced system can handle multiple carton sizes on the same production line without mechanical changeover.",
+      "key_features": [
+        "Robotic Case Forming System with automatic positioning",
+        "Multi-Size Carton Handling without changeovers",
+        "Autonomous Operation with full automation"
+      ],
+      "features": [
+        "Robotic arm picks and forms carton blanks",
+        "Automatic Bottom Sealing with tape or hot-melt",
+        "Fully Automated Workflow minimizing operator intervention",
+        "High-Speed Performance with robotic precision",
+        "Intelligent Control System with PLC and HMI",
+        "Line Integration Ready with filling and sealing equipment"
+      ],
+      "specifications": {
+        "machine_type": "Robotic Case Former with Bottom Sealing",
+        "power_supply": "415 V",
+        "pneumatic_requirement": true,
+        "carton_handling": "Multiple sizes on single production line",
+        "bottom_sealing": "Tape or hot-melt optional",
+        "control_system": "PLC + Touchscreen HMI",
+        "operation_mode": "Fully autonomous robotic operation"
+      },
+      "applications": [
+        "FMCG & Consumer Goods Packaging",
+        "E-commerce Fulfillment Centers",
+        "Food & Beverage Carton Forming Lines",
+        "Pharmaceutical & Healthcare Packaging",
+        "High-Speed Manufacturing & Distribution Facilities"
+      ],
+      "key_advantages": [
+        "No Fixed Size Limitation",
+        "Higher Line Speed with robotic precision",
+        "Reduced Labor Cost",
+        "Consistent Quality every cycle",
+        "Future-Ready Automation for Industry 4.0"
+      ],
+      "category_name": "Autonomous Taping Machines"
+    },
+    "LPC100BC": {
+      "name": "LPC100BC",
+      "title": "Belt Conveyor",
+      "image": "/assets/img/product_image_9.jpeg",
+      "description": "The LYNOPACK LPC100BC Belt Conveyor is a versatile and fully customizable material handling solution designed to meet diverse industrial and packaging line requirements. Engineered for smooth, reliable, and continuous product movement.",
+      "key_features": [
+        "Fully Customizable Dimensions per requirement",
+        "Belt Color Customization available",
+        "Custom Belt & Frame Material options",
+        "Smooth & Stable Operation with minimal vibration",
+        "Automation Ready with sensor integration"
+      ],
+      "features": [
+        "Customizable width, length, and height",
+        "Multiple belt color options",
+        "Custom belt and conveyor structure materials",
+        "Consistent product flow with low noise",
+        "Automation integration capability",
+        "Heavy-Duty Construction for long service life",
+        "Easy line integration with all packaging equipment"
+      ],
+      "specifications": {
+        "conveyor_type": "Belt Conveyor",
+        "frame_material": "Mild Steel / Stainless Steel (optional)",
+        "belt_material": "PVC / PU / Rubber",
+        "drive_system": "Geared motor",
+        "speed_control": "Fixed or variable (VFD optional)",
+        "power_supply": "220 V / 415 V",
+        "automation_level": "Manual / Semi-Automatic / Fully Automatic"
+      },
+      "applications": [
+        "Packaging & End-of-Line Automation",
+        "E-commerce & Logistics",
+        "FMCG & Food Processing",
+        "Pharmaceutical & Healthcare",
+        "Warehousing & Manufacturing Units"
+      ],
+      "benefits": [
+        "Maximum flexibility and customization",
+        "Reliable material handling solution",
+        "Smooth workflow and improved efficiency",
+        "Seamless system integration"
+      ],
+      "category_name": "Conveyor Systems"
+    },
+    "LPC100CT": {
+      "name": "LPC100CT",
+      "title": "Cross Transfer Conveyor",
+      "image": "/assets/img/product_image_14.jpeg",
+      "description": "The LYNOPACK LPC100CT Cross Transfer Conveyor is an advanced material handling solution designed to transfer products laterally (90-degree direction) between conveyor lines. It enables smooth, controlled, and automated product diversion without interrupting main conveyor flow.",
+      "key_mechanisms": [
+        "Pop-Up Transfer Mechanism with controlled actuation",
+        "Lifting transfer unit positioned below main rollers",
+        "Intelligent automation with PLC-based control"
+      ],
+      "conveyor_types": [
+        "Roller-to-Belt Cross Transfer for cartons and boxes",
+        "Roller-to-Chain Cross Transfer for heavy loads",
+        "Lift-and-Carry Transfer System for heavy fabrication"
+      ],
+      "features": [
+        "90-Degree directional transfer capability",
+        "Powered roller and belt/chain systems",
+        "Pneumatic, hydraulic or electric actuation",
+        "Intelligent PLC control with sensor feedback",
+        "High throughput capacity",
+        "Space optimization capability",
+        "Enhanced safety features"
+      ],
+      "specifications": {
+        "conveyor_type": "Cross Transfer / 90-Degree Transfer",
+        "load_handling": "Light to heavy-duty pallet loads",
+        "actuation": "Pneumatic / Hydraulic / Electric",
+        "control_system": "PLC with sensors",
+        "operation_mode": "Fully automated",
+        "construction": "Heavy-duty industrial frame",
+        "throughput": "Up to 1,500 products per hour"
+      },
+      "applications": [
+        "Automotive and Packaging",
+        "Electronics and Pharmaceuticals",
+        "FMCG and Warehousing & Logistics"
+      ],
+      "benefits": [
+        "Eliminates manual pallet handling",
+        "Minimizes operator fatigue and injury risks",
+        "Seamless line integration",
+        "Complex conveyor layouts enabled",
+        "High throughput operations"
+      ],
+      "category_name": "Conveyor Systems"
+    },
+    "LPC100FR": { 
+      "name": "LPC100FR",
+      "title": "Flexible Roller Conveyor",
+      "image": "/assets/img/product_image_15.jpeg",
+      "description": "The LYNOPACK LPC100FR Flexible Roller Conveyor is a highly adaptable material handling solution designed for dynamic warehouse, packaging, and dispatch operations. Its flexible, expandable, and curved structure allows quick adjustment to changing layouts.",
+      "variants": {
+        "gravity": {
+          "title": "Gravity Flexible Roller Conveyor (Cost-Effective & Portable)",
+          "description": "Operates without a motor using natural movement of cartons over rollers",
+          "features": [
+            "No power required (energy-saving)",
+            "Flexible, expandable & curved design",
+            "Height adjustable for ergonomic operation",
+            "Lockable castor wheels for mobility",
+            "Low maintenance & long service life"
+          ],
+          "best_for": [
+            "Dispatch & loading docks",
+            "E-commerce fulfillment",
+            "Temporary or seasonal operations",
+            "Manual sorting & packing areas"
+          ]
+        },
+        "powered": {
+          "title": "Powered Flexible Roller Conveyor (High Efficiency & Continuous Flow)",
+          "description": "Equipped with motor-driven roller system for controlled movement",
+          "features": [
+            "Motorized rollers for smooth, consistent flow",
+            "Variable speed control (optional)",
+            "Handles heavier and high-volume loads",
+            "Flexible layout with powered performance",
+            "Integration with automated systems"
+          ],
+          "best_for": [
+            "High-volume warehouses",
+            "Continuous packaging lines",
+            "Sorting & accumulation zones",
+            "Automation-ready facilities"
+          ]
+        }
+      },
+      "common_features": [
+        "Conveyor Type: Flexible Roller Conveyor",
+        "Frame Material: Heavy-duty Mild Steel",
+        "Roller Material: Steel / PVC",
+        "Height Adjustment: Manual",
+        "Mobility: Castor wheels with brakes",
+        "Layout: Straight, curved, S-shape, circular"
+      ],
+      "applications": [
+        "Warehousing & Distribution Centers",
+        "E-commerce & Logistics",
+        "Packaging & Dispatch Lines",
+        "FMCG & General Manufacturing"
+      ],
+      "benefits": [
+        "Perfect combination of flexibility and portability",
+        "Adapts easily to changing workflows",
+        "Available in gravity and powered versions",
+        "Improves efficiency and reduces manual effort"
+      ],
+      "category_name": "Conveyor Systems"
+    },
+    "LPC100PT": {
+      "name": "LPC100PT",
+      "title": "Pallet Turntable Conveyor",
+      "image": "/assets/img/product_image_16.png",
+      "description": "The LYNOPACK LPC100PT Pallet Turntable Conveyor is an advanced material handling solution designed to rotate pallets smoothly and accurately within an automated or semi-automated conveyor line. It allows pallets to change direction without manual handling.",
+      "key_features": [
+        "Rotational Pallet Transfer at 90°, 180°, or 360°",
+        "Heavy-Duty Turntable Platform for high load capacity",
+        "Powered Rotation System with reliable motor drive",
+        "Seamless Conveyor Integration",
+        "Accurate Positioning with sensor control",
+        "Automation Ready with PLC operation"
+      ],
+      "features": [
+        "Multiple rotation angles for directional change",
+        "Compatible with roller, chain, and belt conveyors",
+        "Precise pallet alignment after rotation",
+        "Sensor-based sequencing for safety",
+        "Smooth and controlled rotation",
+        "Heavy-duty industrial performance"
+      ],
+      "technical_highlights": [
+        "Conveyor Type: Pallet Turntable Conveyor",
+        "Rotation Angles: 90° / 180° / 360° (as per requirement)",
+        "Load Capacity: Suitable for heavy pallets",
+        "Drive System: Motorized",
+        "Control: PLC / Control Panel",
+        "Construction: Heavy-duty Mild Steel",
+        "Surface Type: Roller / Chain / Flat Plate (as required)"
+      ],
+      "applications": [
+        "Automated Warehouses",
+        "Pallet Wrapping & Stretch Hood Lines",
+        "FMCG & Beverage Plants",
+        "Logistics & Distribution Centers",
+        "Manufacturing & Assembly Lines"
+      ],
+      "key_benefits": [
+        "Eliminates manual pallet rotation",
+        "Saves floor space effectively",
+        "Improves line efficiency & throughput",
+        "Enhances operator safety",
+        "Supports fully automated pallet handling systems"
+      ],
+      "category_name": "Conveyor Systems"
+    },
+    "LPC100PR": {
+      "name": "LPC100PR",
+      "title": "Power Roller Conveyor",
+      "image": "/assets/img/product_image_17.jpeg",
+      "description": "The LYNOPACK LPC100PR Power Roller Conveyor is a robust and efficient material handling solution designed for the controlled movement of cartons, boxes, trays, and palletized loads across production, packaging, and warehouse environments.",
+      "key_features": [
+        "Powered Roller Drive System with motor-driven rollers",
+        "Heavy-Duty Construction with strong mild steel frame",
+        "Customizable Design for varied requirements",
+        "Smooth & Silent Operation with precision rollers",
+        "Automation Compatible with PLC systems",
+        "Modular Structure for easy expansion"
+      ],
+      "features": [
+        "Motor-driven rollers for consistent movement",
+        "Built with strong mild steel frame",
+        "Customizable length, width, height, and roller pitch",
+        "Precision rollers ensure low-noise operation",
+        "Easily integrates with scanners and diverters",
+        "Modular design for reconfiguration"
+      ],
+      "technical_highlights": [
+        "Conveyor Type: Power Roller Conveyor",
+        "Drive Type: Motorized (Chain / Belt Driven)",
+        "Roller Material: Mild Steel / GI / SS (Optional)",
+        "Frame Material: Heavy-Duty Mild Steel",
+        "Speed: Variable (VFD Controlled – Optional)",
+        "Load Capacity: As per application",
+        "Control: PLC / Control Panel / Manual"
+      ],
+      "applications": [
+        "Packaging & Case Sealing Lines",
+        "Carton Handling Systems",
+        "Pallet Transfer Lines",
+        "Warehousing & Distribution Centers",
+        "FMCG, Pharmaceutical & E-commerce Industries"
+      ],
+      "key_benefits": [
+        "Reduces manual handling significantly",
+        "Improves line speed and efficiency",
+        "Ensures consistent product movement",
+        "Supports fully automated systems",
+        "Low maintenance & reliable operation"
+      ],
+      "category_name": "Conveyor Systems"
+    },
+    "JLT-S-Center-Car": {
+      "name": "JLT-S-Center-Car",
+      "title": "Centre Opening Car Header",
+      "image": "/assets/img/product_image_18.png",
+      "product_type": "JLT S-Series Car Header",
+      "description": "A Centre Opening Car Header is a critical mechanical assembly used in elevator car door systems, designed to support and guide two door panels that open symmetrically from the center. This configuration ensures smooth, balanced, and synchronized door movement.",
+      "key_features": [
+        "Centre Opening Mechanism with two door panels",
+        "Precision Guide Tracks & Rollers",
+        "Robust Construction in high-strength materials",
+        "Smooth & Safe Operation"
+      ],
+      "features": [
+        "Two door panels opening equally from center",
+        "Ensures low-noise, vibration-free operation",
+        "Manufactured using high-strength materials",
+        "Works seamlessly with elevator operators",
+        "Optimized for limited headroom"
+      ],
+      "technical_highlights": [
+        "Door Type: Centre Opening (2 Panels)",
+        "Mounting Position: Top of Elevator Car Entrance",
+        "Material: MS / Aluminum / SS (as per requirement)",
+        "Compatibility: Passenger, Hospital & Service Elevators",
+        "Operation: Motorized via door operator system"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Hospital & Medical Lifts",
+        "Residential & Commercial Buildings",
+        "High-Rise & Infrastructure Projects"
+      ],
+      "key_benefits": [
+        "Wider and balanced door opening",
+        "Smooth, synchronized door movement",
+        "Reduced mechanical wear",
+        "Enhanced passenger safety and comfort",
+        "Professional and premium appearance"
+      ],
+      "series": "S-Series",
+      "category_name": "Lift Auto Door Mechanism - S Series"
+    },
+    "JLT-S-Center-Landing": {
+      "name": "JLT-S-Center-Landing",
+      "title": "Centre Opening Landing Header",
+      "image": "/assets/img/product_image_19.png",
+      "product_type": "JLT S-Series Landing Header",
+      "description": "A Centre Opening Landing Header is a key structural and guiding component of an elevator landing door system, designed to support and guide two landing door panels that open symmetrically from the center. It ensures smooth, synchronized, and safe door movement at each floor level.",
+      "key_features": [
+        "Centre Opening Configuration with symmetric movement",
+        "High-Precision Guide System for stable operation",
+        "Strong & Durable Construction",
+        "Perfect Door Synchronization",
+        "Space-Efficient Design"
+      ],
+      "features": [
+        "Two landing door panels opening equally from center",
+        "Ensures stable, vibration-free movement",
+        "Made from high-grade steel/aluminum sections",
+        "Works seamlessly with car door operators",
+        "Compact profile for standard elevator shafts"
+      ],
+      "technical_highlights": [
+        "Door Type: Centre Opening Landing Doors (2 Panels)",
+        "Installation Location: Landing / Floor Level",
+        "Material Options: MS / Aluminum / SS (as per project requirement)",
+        "Compatibility: Passenger, Hospital, Commercial & Service Elevators",
+        "Operation: Mechanical coupling with car door operator"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Hospital & Bed Lifts",
+        "Commercial Buildings",
+        "Residential Apartments",
+        "High-Rise Infrastructure Projects"
+      ],
+      "key_benefits": [
+        "Smooth and synchronized landing door operation",
+        "Accurate alignment with car doors",
+        "Reduced wear on door mechanisms",
+        "Enhanced passenger safety and reliability",
+        "Professional finish and long-lasting performance"
+      ],
+      "series": "S-Series",
+      "category_name": "Lift Auto Door Mechanism - S Series"
+    },
+    "JLT-S-Telescopic-Car": {
+      "name": "JLT-S-Telescopic-Car",
+      "title": "Telescopic Opening Car Header",
+      "image": "/assets/img/product_image_27.png",
+      "product_type": "JLT S-Series Telescopic Car",
+      "description": "A Telescopic Opening Car Header is a precision-engineered structural and guiding assembly designed for multi-panel telescopic elevator car doors, where door panels slide and stack behind one another to achieve maximum clear opening within limited shaft space.",
+      "key_features": [
+        "Telescopic Door Configuration for multi-panel systems",
+        "Maximum Clear Opening in compact spaces",
+        "High-Precision Guide & Roller System",
+        "Robust & Durable Construction",
+        "Smooth Synchronization"
+      ],
+      "features": [
+        "Supports 2-panel, 3-panel or multi-panel telescopic doors",
+        "Delivers wider entrance opening than centre-opening",
+        "Ensures smooth sliding with low friction",
+        "Manufactured from high-strength materials",
+        "Perfect coordination with landing door systems"
+      ],
+      "technical_highlights": [
+        "Door Type: Telescopic Opening Car Doors",
+        "Installation Location: Elevator Car (Top Header Assembly)",
+        "Panel Support: 2 / 3 / Multi-panel telescopic doors",
+        "Material Options: MS / Aluminum / Stainless Steel",
+        "Operation: Mechanical linkage with door operator"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Hospital & Bed Lifts with stretchers & wheelchairs",
+        "Commercial & Office Buildings",
+        "Hotels & Shopping Malls",
+        "Space-Constrained Elevator Shafts"
+      ],
+      "key_benefits": [
+        "Wider door opening in limited shaft width",
+        "Smooth and silent door operation",
+        "Improved accessibility and passenger flow",
+        "Reduced mechanical wear and maintenance",
+        "Reliable performance in high-traffic environments"
+      ],
+      "series": "S-Series",
+      "category_name": "Lift Auto Door Mechanism - S Series"
+    },
+    "JLT-S-Telescopic-Landing": {
+      "name": "JLT-S-Telescopic-Landing",
+      "title": "Telescopic Opening Landing Header",
+      "image": "/assets/img/product_image_21.png",
+      "product_type": "JLT S-Series Telescopic Landing",
+      "description": "A Telescopic Opening Landing Header is a robust and precisely engineered structural assembly designed to support multi-panel telescopic elevator landing doors. It works in perfect synchronization with the telescopic car door system to ensure smooth, safe, and accurate door operation.",
+      "key_features": [
+        "Telescopic Door Support for multi-panel systems",
+        "Smooth & Silent Operation with precision rollers",
+        "High Strength Construction for durability",
+        "Accurate Door Alignment with car doors",
+        "Safety Integration Ready for sensors"
+      ],
+      "features": [
+        "Compatible with 2-panel, 3-panel, and multi-panel doors",
+        "Precision roller and guide track system",
+        "Made from heavy-duty steel or aluminum profiles",
+        "Ensures perfect synchronization with car doors",
+        "Designed to accommodate door locks and sensors"
+      ],
+      "technical_highlights": [
+        "Door Type: Telescopic Opening Landing Doors",
+        "Installation Location: Elevator Landing / Floor Entrance",
+        "Panel Configuration: 2 / 3 / Multi-panel",
+        "Material Options: MS / Aluminum / Stainless Steel",
+        "Operation: Mechanical sliding system with safety locking support"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Hospital & Bed Lifts",
+        "Commercial & Office Buildings",
+        "Hotels, Malls & Public Infrastructure",
+        "High-traffic Residential Projects"
+      ],
+      "key_benefits": [
+        "Wider entrance opening in limited shaft space",
+        "Reliable and safe landing door movement",
+        "Smooth synchronization with car door system",
+        "Reduced wear, low maintenance requirement",
+        "Long operational life in continuous use"
+      ],
+      "series": "S-Series",
+      "category_name": "Lift Auto Door Mechanism - S Series"
+    },
+    "JLT-F-Center-Car": {
+      "name": "JLT-F-Center-Car",
+      "title": "Centre Opening Car Header",
+      "image": "/assets/img/product_image_22.png",
+      "product_type": "JLT F-Series Car Header",
+      "description": "The JLT – F Series Centre Opening Car Header is a precision-engineered component designed for centre opening elevator car doors, ensuring smooth, synchronized, and reliable door operation inside the lift cabin. This car header assembly supports two door panels that open equally from the center.",
+      "key_features": [
+        "Centre opening mechanism with synchronized door movement",
+        "Smooth and silent door travel with precise alignment",
+        "Strong and durable construction for long-term reliability",
+        "Stable performance with minimal vibration",
+        "Easy integration with standard car door operator systems"
+      ],
+      "features": [
+        "Heavy duty centre opening mechanism",
+        "Advanced controller and heavy duty motor compatibility",
+        "High traffic rated design",
+        "Synchronized dual-panel operation",
+        "Professional finishing"
+      ],
+      "technical_overview": [
+        "Series: JLT – F Series",
+        "Door Type: Centre Opening Car Door",
+        "Panel Configuration: 2 Panels",
+        "Mounting Location: Elevator Car",
+        "Material Options: MS / Aluminum / SS (as per requirement)"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Residential Buildings",
+        "Commercial & Office Lifts",
+        "Hospital Elevators",
+        "Modern Elevator Installations"
+      ],
+      "key_benefits": [
+        "Reliable and consistent door operation",
+        "Smooth passenger experience",
+        "Reduced wear on door components",
+        "Low maintenance and long service life",
+        "Professional finish for lift cabins"
+      ],
+      "series": "F-Series",
+      "category_name": "Lift Auto Door Mechanism - F Series"
+    },
+    "JLT-F-Center-Landing": {
+      "name": "JLT-F-Center-Landing",
+      "title": "Centre Opening Landing Header",
+      "image": "/assets/img/product_image_23.png",
+      "product_type": "JLT F-Series Landing Header",
+      "description": "The JLT – F Series Centre Opening Landing Header is a high-precision elevator door header designed for centre opening landing doors, ensuring smooth, balanced, and reliable door movement at each floor. This landing header supports two door panels opening simultaneously from the center.",
+      "key_features": [
+        "Centre opening mechanism with synchronized panel movement",
+        "Smooth, stable, and silent door operation",
+        "Strong structural design for long-term durability",
+        "Accurate door alignment and controlled movement",
+        "Compatible with standard landing door operator systems"
+      ],
+      "features": [
+        "Heavy duty landing header for F-Series",
+        "Robust and certified safety design",
+        "Long service life construction",
+        "Synchronized panel operation",
+        "High traffic rated"
+      ],
+      "technical_overview": [
+        "Series: JLT – F Series",
+        "Door Type: Centre Opening Landing Door",
+        "Panel Configuration: 2 Panels",
+        "Mounting Location: Elevator Landing (Floor Level)",
+        "Material Options: MS / Aluminum / SS (as per requirement)"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Residential & Commercial Buildings",
+        "Hospitals & Hotels",
+        "Office Complexes",
+        "High-Traffic Elevator Installations"
+      ],
+      "key_benefits": [
+        "Smooth and reliable landing door operation",
+        "Improved safety and door alignment",
+        "Reduced mechanical wear",
+        "Low maintenance requirement",
+        "Professional and clean elevator finish"
+      ],
+      "series": "F-Series",
+      "category_name": "Lift Auto Door Mechanism - F Series"
+    },
+    "JLT-F-Telescopic-Car": {
+      "name": "JLT-F-Telescopic-Car",
+      "title": "Telescopic Opening Car Header",
+      "image": "/assets/img/product_image_24.png",
+      "product_type": "JLT F-Series Telescopic Car",
+      "description": "The JLT – F Series Telescopic Opening Car Header is engineered for telescopic elevator car doors, enabling smooth and sequential opening of multiple door panels within the lift cabin. This car header assembly supports telescopic door movement for wider clear opening within compact installation space.",
+      "key_features": [
+        "Telescopic opening mechanism for sequential panel movement",
+        "Smooth and silent door travel with precise synchronization",
+        "Strong and durable construction for long service life",
+        "Stable operation with minimal vibration",
+        "Easy integration with standard elevator car door systems"
+      ],
+      "features": [
+        "Wide opening capability for high traffic",
+        "Fast operation with heavy duty construction",
+        "Multi-panel telescopic support",
+        "Precise synchronization",
+        "Commercial grade reliability"
+      ],
+      "technical_overview": [
+        "Series: JLT – F Series",
+        "Door Type: Telescopic Opening Car Door",
+        "Panel Configuration: 2 / 3 Panels (as per requirement)",
+        "Mounting Location: Elevator Car",
+        "Material Options: MS / Aluminum / SS (as per requirement)"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Residential & Commercial Buildings",
+        "Hospitals and Hotels",
+        "Office Complexes",
+        "Modern Lift Installations with limited shaft space"
+      ],
+      "key_benefits": [
+        "Wider door opening in compact spaces",
+        "Smooth and reliable door operation",
+        "Reduced mechanical stress on door components",
+        "Low maintenance and long operational life",
+        "Enhanced passenger comfort and safety"
+      ],
+      "series": "F-Series",
+      "category_name": "Lift Auto Door Mechanism - F Series"
+    },
+    "JLT-F-Telescopic-Landing": {
+      "name": "JLT-F-Telescopic-Landing",
+      "title": "Telescopic Opening Landing Header",
+      "image": "/assets/img/product_image_25.png",
+      "product_type": "JLT F-Series Telescopic Landing",
+      "description": "The JLT – F Series Telescopic Opening Landing Header is designed for telescopic elevator landing doors, ensuring smooth, sequential, and reliable door movement at each floor level. This landing header supports multiple door panels opening in a telescopic sequence for maximum clear opening.",
+      "key_features": [
+        "Telescopic opening mechanism with sequential panel movement",
+        "Smooth, stable, and silent landing door operation",
+        "Robust structural design for long-term durability",
+        "Accurate panel alignment and controlled motion",
+        "Compatible with standard landing door systems"
+      ],
+      "features": [
+        "Secure locking and high cycle capability",
+        "Low maintenance F-Series design",
+        "Multi-panel telescopic support",
+        "Sequential smooth opening",
+        "Commercial grade construction"
+      ],
+      "technical_overview": [
+        "Series: JLT – F Series",
+        "Door Type: Telescopic Opening Landing Door",
+        "Panel Configuration: 2 / 3 Panels (as per requirement)",
+        "Mounting Location: Elevator Landing (Floor Level)",
+        "Material Options: MS / Aluminum / SS (as per requirement)"
+      ],
+      "applications": [
+        "Passenger Elevators",
+        "Residential & Commercial Buildings",
+        "Hospitals and Hotels",
+        "Office Complexes",
+        "High-Traffic Lift Installations"
+      ],
+      "key_benefits": [
+        "Wider opening with efficient space utilization",
+        "Smooth and reliable landing door operation",
+        "Reduced wear and maintenance",
+        "Improved safety and durability",
+        "Professional and clean elevator appearance"
+      ],
+      "series": "F-Series",
+      "category_name": "Lift Auto Door Mechanism - F Series"
+    },
+    "JLT-Parts-S": {
+      "name": "JLT-Parts-S",
+      "title": "Spare Parts for S-Series",
+      "image": "/assets/img/product_image_28.png",
+      "description": "The JLT – S Series Car & Landing Door Spare Parts section is designed to help customers identify and source genuine spare parts used in S Series elevator car and landing door systems. All parts are manufactured to ensure proper fitment, smooth operation, and reliable performance.",
+      "purpose": "Replacement, maintenance, and refurbishment of existing elevator installations",
+      "features": [
+        "Suitable for S Series car and landing doors",
+        "Used for maintenance, repair, and replacement purposes",
+        "Designed to match original specifications and dimensions",
+        "Ensures smooth door movement and long service life",
+        "Helps maintain safe and reliable elevator operation"
+      ],
+      "part_categories": [
+        "Rollers",
+        "Belts",
+        "Controllers",
+        "Door guides",
+        "Drive components"
+      ],
+      "why_genuine_parts": [
+        "Accurate fit with existing door systems",
+        "Consistent quality and durability",
+        "Reduced downtime during maintenance",
+        "Long-lasting and dependable performance"
+      ],
+      "applications": [
+        "Maintenance and repair of S-Series elevators",
+        "System refurbishment and upgrades",
+        "Preventive maintenance programs"
+      ],
+      "series": "S-Series",
+      "category_name": "Lift Auto Door Mechanism - Parts"
+    },
+    "JLT-Parts-F": {
+      "name": "JLT-Parts-F",
+      "title": "Spare Parts for F-Series",
+      "image": "/assets/img/product_image_27.png",
+      "description": "The JLT – F Series Car & Landing Door Spare Parts section is created to help customers easily identify and procure genuine spare parts used in F Series elevator car and landing door systems. All parts are designed for F Series door assemblies and manufactured to deliver precise fitment and dependable long-term performance.",
+      "purpose": "Service, maintenance, and replacement of F Series elevator installations",
+      "features": [
+        "Designed for F Series car and landing doors",
+        "Used for service, maintenance, and replacement applications",
+        "Manufactured as per original specifications",
+        "Ensures smooth, stable, and safe door movement",
+        "Supports long service life of elevator door systems"
+      ],
+      "part_categories": [
+        "Motor drives",
+        "Door shoes",
+        "Electrical contacts",
+        "Heavy-duty rollers",
+        "Advanced controllers"
+      ],
+      "why_genuine_parts": [
+        "Perfect compatibility with existing F Series doors",
+        "Consistent quality and reliable performance",
+        "Reduced downtime during service work",
+        "Long-lasting and durable construction"
+      ],
+      "applications": [
+        "Maintenance and repair of F-Series elevators",
+        "System upgrades and refurbishment",
+        "Commercial elevator maintenance programs"
+      ],
+      "series": "F-Series",
+      "category_name": "Lift Auto Door Mechanism - Parts"
+    }
+  }
+}
