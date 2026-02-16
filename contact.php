@@ -133,7 +133,7 @@
                         <option value="">Select Products</option>
                         <option value="Service 1">Primary Packaging</option>
                         <option value="Service 2">Secondary Packaging</option>
-                        <option value="Service 3">Coding & Marking</option>
+                        <option value="Service 3">Marking</option>
                         <option value="Service 4">Lift Auto Door Mechanism</option>
                       </select>
                     </div>

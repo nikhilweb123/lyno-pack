@@ -39,7 +39,7 @@
       <div class="container mb-5">
         <div class="section-title">
           <h2>About Us</h2>
-          <p>Discover Lynopack's commitment to excellence in packaging and coding solutions.</p>
+          <p>Discover Lynopack's commitment to excellence in packaging and marking solutions.</p>
         </div>
       </div>
     </section>

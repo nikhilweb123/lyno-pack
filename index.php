@@ -109,7 +109,7 @@
               </div>
               <div class="feature-content">
                 <h3 class="feature-title">Comprehensive Solutions</h3>
-                <p class="feature-text">We offer a complete range of Primary, Secondary, and Industrial Coding &amp; Marking Solutions tailored to your needs.</p>
+                <p class="feature-text">We offer a complete range of Primary, Secondary, and Industrial Marking Solutions tailored to your needs.</p>
               </div>
             </div>
           </div>
@@ -146,18 +146,14 @@
 
           <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
             <div class="row gy-4">
-              <div class="col-lg-6">
-                <img src="assets/img/about/about-portrait-2.jpg" class="img-fluid" alt="">
+              <!-- <div class="col-12 mb-3">
+                <img src="assets/img/ChatGPT Image Feb 16, 2026, 05_54_46 PM (1).png" class="img-fluid rounded-3" alt="Lynopack banner 1">
+              </div> -->
+              <div class="col-12 mb-3">
+                <img src="assets/img/ChatGPT Image Feb 16, 2026, 05_54_46 PM (2).png" class="img-fluid rounded-3" alt="Lynopack banner 2">
               </div>
-              <div class="col-lg-6">
-                <div class="row gy-4">
-                  <div class="col-lg-12">
-                    <img src="assets/img/about/about-8.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="col-lg-12">
-                    <img src="assets/img/about/about-12.jpg" class="img-fluid" alt="">
-                  </div>
-                </div>
+              <div class="col-12">
+                <img src="assets/img/ChatGPT Image Feb 16, 2026, 05_54_46 PM (3).png" class="img-fluid rounded-3" alt="Lynopack banner 3">
               </div>
             </div>
 
@@ -389,8 +385,8 @@
             <div class="content-block">
               <h6 class="subtitle">Our innovative products</h6>
               <h2 class="title">Empowering Your Business with Innovative Solutions</h2>
-              <p class="description">
-                At Lynopack, we are dedicated to providing cutting-edge packaging and coding solutions that drive efficiency, enhance product presentation, and ensure long-term reliability for your business.
+                <p class="description">
+                At Lynopack, we are dedicated to providing cutting-edge packaging and marking solutions that drive efficiency, enhance product presentation, and ensure long-term reliability for your business.
               </p>
               <div class="button-wrapper">
                 <a class="btn" href="../contact.php"><span>Contact Us</span></a>
@@ -451,7 +447,7 @@
 
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div class="cta-content">
-              <h2>Ready to Elevate Your Packaging & Coding Operations?</h2>
+              <h2>Ready to Elevate Your Packaging & Marking Operations?</h2>
               <p class="lead">Partner with Lynopack to optimize your production lines with our advanced, reliable, and cost-effective solutions. Let's build a more efficient future together.</p>
 
               <div class="cta-features">
@@ -496,7 +492,7 @@
               </div>
               <div class="card-content">
                 <h3>Still Have Questions?</h3>
-                <p>Have more questions about our packaging and coding solutions? Our team is ready to provide expert advice and personalized support. Don't hesitate to get in touch with us through any of the options below.</p>
+                <p>Have more questions about our packaging and marking solutions? Our team is ready to provide expert advice and personalized support. Don't hesitate to get in touch with us through any of the options below.</p>
                 <div class="contact-options">
                   <a href="mailto:salesteam.madad%40gmail.com?subject=&body=" class="contact-option">
                     <i class="bi bi-envelope"></i>
@@ -531,12 +527,12 @@
 
               <div class="faq-item" data-aos="zoom-in" data-aos-delay="200">
                 <div class="faq-header">
-                  <h3>What coding and marking technologies do you specialize in?</h3>
+                  <h3>What marking technologies do you specialize in?</h3>
                   <i class="bi bi-chevron-down faq-toggle"></i>
                 </div>
                 <div class="faq-content">
                   <p>
-                    We specialize in various coding and marking technologies, including inkjet printing, laser marking, and thermal transfer overprinting, suitable for different materials and production speeds.
+                    We specialize in various marking technologies, including inkjet printing, laser marking, and thermal transfer overprinting, suitable for different materials and production speeds.
                   </p>
                 </div>
               </div><!-- End FAQ Item-->
@@ -560,7 +556,7 @@
                 </div>
                 <div class="faq-content">
                   <p>
-                    Absolutely! We understand that every business has unique requirements. Our team works closely with clients to design and implement customized packaging and coding solutions tailored to their specific products, processes, and industry regulations.
+                    Absolutely! We understand that every business has unique requirements. Our team works closely with clients to design and implement customized packaging and marking solutions tailored to their specific products, processes, and industry regulations.
                   </p>
                 </div>
               </div><!-- End FAQ Item-->
@@ -578,7 +574,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Product Portfolio</h2>
-        <p>Explore our comprehensive range of packaging and coding solutions through our product brochures.</p>
+        <p>Explore our comprehensive range of packaging and marking solutions through our product brochures.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -630,7 +626,7 @@
             <div class="swiper-slide">
               <div class="brochure-item">
                 <a href="assets/img/portfolio/pdf-3.pdf" target="_blank">
-                  <img src="assets/img/portfolio/pdf-3.jpg" class="img-fluid" alt="Coding & Marking Brochure Cover">
+                  <img src="assets/img/portfolio/pdf-3.jpg" class="img-fluid" alt="Marking Brochure Cover">
                   <h4>Strapping Machines Brochure</h4>
                 </a>
               </div>
@@ -676,7 +672,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Client Testimonials</h2>
-        <p>Hear what our valued clients have to say about our packaging and coding solutions.</p>
+        <p>Hear what our valued clients have to say about our packaging and marking solutions.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -739,7 +735,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    The coding and marking solutions from Lynopack Techsol LLP are incredibly precise and efficient. They've significantly improved our production line's throughput and traceability. Excellent service and support!
+                    The marking solutions from Lynopack Techsol LLP are incredibly precise and efficient. They've significantly improved our production line's throughput and traceability. Excellent service and support!
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -820,7 +816,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    The team at Lynopack Techsol LLP provided exceptional support in integrating their coding solutions into our existing production line. Their expertise and prompt service made the transition seamless.
+                    The team at Lynopack Techsol LLP provided exceptional support in integrating their marking solutions into our existing production line. Their expertise and prompt service made the transition seamless.
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -953,7 +949,7 @@
                         <option value="">Select Products</option>
                         <option value="Service 1">Primary Packaging</option>
                         <option value="Service 2">Secondary Packaging</option>
-                        <option value="Service 3">Coding & Marking</option>
+                        <option value="Service 3">Marking</option>
                         <option value="Service 4">Lift Auto Door Mechanism</option>
                       </select>
                     </div>

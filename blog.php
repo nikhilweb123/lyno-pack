@@ -7,7 +7,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Blog – Lynopack</title>
   <meta name="description" content="Latest news and updates from Lynopack.">
-  <meta name="keywords" content="Lynopack, Blog, News, Updates, Packaging, Coding, Marking, Automation">
+  <meta name="keywords" content="Lynopack, Blog, News, Updates, Packaging, Marking, Automation">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

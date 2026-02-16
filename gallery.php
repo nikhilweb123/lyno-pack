@@ -6,8 +6,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Gallery – Lynopack</title>
-  <meta name="description" content="Explore Lynopack's product gallery featuring our packaging and coding solutions.">
-  <meta name="keywords" content="Lynopack, Gallery, Packaging Machines, Coding Machines, Industrial Solutions, Photos">
+  <meta name="description" content="Explore Lynopack's product gallery featuring our packaging and marking solutions.">
+  <meta name="keywords" content="Lynopack, Gallery, Packaging Machines, Marking Machines, Industrial Solutions, Photos">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -46,7 +46,7 @@
       <div class="container mb-5">
         <div class="section-title">
           <h2>Our Gallery</h2>
-          <p>Explore our diverse range of packaging and coding solutions.</p>
+          <p>Explore our diverse range of packaging and marking solutions.</p>
         </div>
       </div>
     </section>
