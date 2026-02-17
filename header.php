@@ -45,9 +45,6 @@ function getCategoryUrl($categorySlug, $navigation)
       <ul role="menubar">
         <li role="none"><a href="/index.php" role="menuitem" <?php echo $activePage === 'home' ? ' class="active"' : ''; ?>>Home</a></li>
         <li role="none"><a href="/about.php" role="menuitem" <?php echo $activePage === 'about' ? ' class="active"' : ''; ?>>About</a></li>
-        <li role="none"><a href="/gallery.php" role="menuitem" <?php echo $activePage === 'gallery' ? ' class="active"' : ''; ?>>Gallery</a></li>
-        <li role="none"><a href="/blog.php" role="menuitem" <?php echo $activePage === 'blog' ? ' class="active"' : ''; ?>>Blogs</a></li>
-
         <!-- Products Mega Dropdown (3-Level) -->
         <li class="dropdown mega-menu" role="none">
           <a href="#" role="menuitem" aria-haspopup="true" aria-expanded="false"
@@ -145,7 +142,8 @@ function getCategoryUrl($categorySlug, $navigation)
             endforeach; ?>
           </ul>
         </li>
-
+        <li role="none"><a href="/gallery.php" role="menuitem" <?php echo $activePage === 'gallery' ? ' class="active"' : ''; ?>>Gallery</a></li>
+        <li role="none"><a href="/blog.php" role="menuitem" <?php echo $activePage === 'blog' ? ' class="active"' : ''; ?>>Blogs</a></li>
         <li role="none"><a href="/contact.php" role="menuitem" <?php echo $activePage === 'contact' ? ' class="active"' : ''; ?>>Contact</a></li>
       </ul>
     </nav>
