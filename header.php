@@ -32,6 +32,9 @@ function getCategoryUrl($categorySlug, $navigation)
   }
   return '/category/' . $categorySlug;
 }
+// Contact information
+$phoneNumber = '+91 82000 12841, +91 9409930209';
+$emailAddress = 'madadserviceprovider@gmail.com';
 ?>
 <header id="header" class="header d-flex align-items-center fixed-top">
   <div class="container position-relative d-flex align-items-center justify-content-between">
@@ -48,7 +51,7 @@ function getCategoryUrl($categorySlug, $navigation)
         <!-- Products Mega Dropdown (3-Level) -->
         <li class="dropdown mega-menu" role="none">
           <a href="#" role="menuitem" aria-haspopup="true" aria-expanded="false"
-            class="dropdown-toggle"><span>Products</span></a>
+            class="dropdown-toggle"><span>Products</span> <i class="bi bi-chevron-down"></i></a>
           <ul role="menu" class="dropdown-level-1">
             <?php foreach ($navigation as $groupSlug => $group): ?>
               <?php
@@ -58,7 +61,8 @@ function getCategoryUrl($categorySlug, $navigation)
               <?php if ($hasSubcats): ?>
                 <li class="dropdown" role="none">
                   <a href="#" role="menuitem" aria-haspopup="true" aria-expanded="false"
-                    class="dropdown-toggle"><span><?php echo htmlspecialchars($group['name']); ?></span></a>
+                    class="dropdown-toggle"><span><?php echo htmlspecialchars($group['name']); ?></span> <i
+                      class="bi bi-chevron-right"></i></a>
                   <ul role="menu" class="dropdown-level-2">
                     <?php foreach ($subcats as $subcatSlug): ?>
                       <?php $subcat = $categories[$subcatSlug] ?? null; ?>
@@ -111,7 +115,7 @@ function getCategoryUrl($categorySlug, $navigation)
                   <li class="dropdown" role="none">
                     <a href="<?php echo getCategoryUrl($singleSubcatSlug, $navigation); ?>" role="menuitem"
                       aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">
-                      <span><?php echo htmlspecialchars($group['name']); ?></span>
+                      <span><?php echo htmlspecialchars($group['name']); ?></span> <i class="bi bi-chevron-right"></i>
                     </a>
                     <ul role="menu" class="dropdown-level-3">
                       <?php foreach ($singleSubcat['products'] as $prodId): ?>
@@ -252,6 +256,21 @@ function getCategoryUrl($categorySlug, $navigation)
 
         <li><a href="/contact.php" <?php echo $activePage === 'contact' ? ' class="active"' : ''; ?>>Contact</a></li>
       </ul>
+
+      <!-- Mobile Contact Information and Button -->
+      <div class="mobile-nav-contact">
+        <div class="mobile-contact-info">
+          <a href="tel:+918200012841" class="mobile-contact-item">
+            <i class="bi bi-telephone"></i>
+            <span><?php echo htmlspecialchars($phoneNumber); ?></span>
+          </a>
+          <a href="mailto:<?php echo htmlspecialchars($emailAddress); ?>" class="mobile-contact-item">
+            <i class="bi bi-envelope"></i>
+            <span><?php echo htmlspecialchars($emailAddress); ?></span>
+          </a>
+        </div>
+        <a class="mobile-btn-getstarted" href="/contact.php">Get Started</a>
+      </div>
     </nav>
 
     <!-- Mobile Navigation Overlay -->
@@ -262,6 +281,67 @@ function getCategoryUrl($categorySlug, $navigation)
 
     <!-- Custom Language Dropdown & Mobile Responsive Styles -->
     <style>
+      /* ========== HEADER CONTACT INFORMATION - DESKTOP ONLY ========== */
+      .header-right-section {
+        gap: 8px;
+      }
+
+      .header-contact-info {
+        display: flex;
+        gap: 20px;
+        margin-bottom: 4px;
+      }
+
+      .header-actions {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+
+      .header-contact-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        color: var(--nav-color, #3a3939);
+        text-decoration: none;
+        font-size: 14px;
+        font-family: var(--nav-font, "Raleway", sans-serif);
+        font-weight: 500;
+        transition: color 0.3s ease;
+        white-space: nowrap;
+      }
+
+      .header-contact-item i {
+        font-size: 16px;
+        color: var(--accent-color, #01337e);
+        transition: color 0.3s ease;
+      }
+
+      .header-contact-item:hover {
+        color: var(--accent-color, #01337e);
+        text-decoration: none;
+      }
+
+      .header-contact-item:hover i {
+        color: var(--nav-hover-color, #01337e);
+      }
+
+      /* Hide contact info, language dropdown, and button when hamburger icon shows (below 1200px) */
+      @media (max-width: 1199px) {
+
+        .header-right-section,
+        .header-contact-info,
+        .header-actions,
+        .header-right-section .lang-dropdown,
+        .header-right-section .btn-getstarted,
+        #header .header-right-section,
+        #header .header-contact-info,
+        #header .header-actions {
+          display: none !important;
+          visibility: hidden !important;
+        }
+      }
+
       /* Hide Google Translate Top Bar */
       .VIpgJd-ZVi9od-ORHb {
         margin: 0;
@@ -808,16 +888,44 @@ function getCategoryUrl($categorySlug, $navigation)
           padding: 10px 0;
           font-size: 15px;
           color: var(--nav-color);
+          transition: color 0.3s, background-color 0.3s;
         }
 
-        .navmenu>ul>li>a:hover {
+        .navmenu>ul>li>a:hover,
+        .navmenu>ul>li>a:focus,
+        .navmenu>ul>li>a:active {
           color: var(--nav-hover-color);
           background-color: transparent;
+          padding: 10px 0;
         }
 
         /* Hide dropdown toggles on desktop */
         .navmenu .dropdown>a.dropdown-toggle::after {
           display: none;
+        }
+
+        /* Style arrow icons for dropdown items on desktop */
+        .navmenu .dropdown-toggle i.bi-chevron-down,
+        .navmenu .dropdown-toggle i.bi-chevron-right {
+          font-size: 12px;
+          margin-left: 6px;
+          transition: transform 0.2s ease;
+          display: inline-block;
+        }
+
+        .navmenu .mega-menu .dropdown-toggle i.bi-chevron-down {
+          font-size: 11px;
+          margin-left: 4px;
+        }
+
+        .navmenu .dropdown-level-1>li.dropdown .dropdown-toggle i.bi-chevron-right {
+          font-size: 11px;
+          margin-left: 6px;
+        }
+
+        .navmenu .dropdown-level-2>li.dropdown .dropdown-toggle i.bi-chevron-right {
+          font-size: 11px;
+          margin-left: 6px;
         }
 
         /* Products mega menu - show as dropdown on desktop */
@@ -832,7 +940,7 @@ function getCategoryUrl($categorySlug, $navigation)
           overflow: visible;
           display: none;
           box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
-          padding: 15px !important;
+          /* padding: 15px !important; */
           margin-top: 5px;
           border-radius: 4px;
           flex-direction: row;
@@ -898,12 +1006,21 @@ function getCategoryUrl($categorySlug, $navigation)
           font-size: 14px;
           color: #333;
           background-color: transparent;
+          transition: color 0.3s, background-color 0.3s;
         }
 
+        .navmenu .dropdown-level-1>li>a:hover,
+        .navmenu .dropdown-level-1>li>a:focus,
+        .navmenu .dropdown-level-1>li>a:active,
         .navmenu .dropdown-level-2>li>a:hover,
-        .navmenu .dropdown-level-3>li>a:hover {
+        .navmenu .dropdown-level-2>li>a:focus,
+        .navmenu .dropdown-level-2>li>a:active,
+        .navmenu .dropdown-level-3>li>a:hover,
+        .navmenu .dropdown-level-3>li>a:focus,
+        .navmenu .dropdown-level-3>li>a:active {
           background-color: #f5f5f5;
           color: var(--nav-hover-color);
+          padding: 10px 15px !important;
         }
 
         /* Hide mobile hamburger on desktop */
@@ -1097,6 +1214,8 @@ function getCategoryUrl($categorySlug, $navigation)
         transition: right 0.35s cubic-bezier(0.4, 0, 0.2, 1);
         box-shadow: -4px 0 24px rgba(0, 0, 0, 0.2);
         -webkit-overflow-scrolling: touch;
+        display: flex;
+        flex-direction: column;
       }
 
       .mobile-navmenu.active {
@@ -1208,6 +1327,8 @@ function getCategoryUrl($categorySlug, $navigation)
         list-style: none;
         padding: 0;
         margin: 0;
+        flex: 1;
+        overflow-y: auto;
       }
 
       .mobile-nav-list>li {
@@ -1250,14 +1371,12 @@ function getCategoryUrl($categorySlug, $navigation)
       .mobile-nav-list>li>a:active {
         background-color: #f8f9fa;
         color: var(--nav-hover-color);
-        padding-left: 24px;
       }
 
       .mobile-nav-list>li>a.active {
         background-color: #f0f4f8;
         color: var(--nav-color);
         font-weight: 600;
-        padding-left: 24px;
       }
 
       /* Mobile Dropdown Styles */
@@ -1285,7 +1404,6 @@ function getCategoryUrl($categorySlug, $navigation)
 
       .mobile-dropdown-btn:active {
         background-color: #f8f9fa;
-        padding-left: 24px;
       }
 
       .mobile-dropdown-btn i {
@@ -1343,7 +1461,6 @@ function getCategoryUrl($categorySlug, $navigation)
       .mobile-dropdown-content>li>a:active {
         background-color: #e9ecef;
         color: var(--nav-hover-color);
-        padding-left: 40px;
       }
 
       .mobile-dropdown-content>li>a:active::before {
@@ -1360,7 +1477,7 @@ function getCategoryUrl($categorySlug, $navigation)
       }
 
       .mobile-dropdown-btn.level-2:active {
-        padding-left: 40px;
+        background-color: #f8f9fa;
       }
 
       /* Level 2 Dropdown Content */
@@ -1375,7 +1492,8 @@ function getCategoryUrl($categorySlug, $navigation)
       }
 
       .mobile-dropdown .mobile-dropdown-content .mobile-dropdown-content>li>a:active {
-        padding-left: 56px;
+        background-color: #e9ecef;
+        color: var(--nav-hover-color);
       }
 
       /* Level 3 Dropdown Button */
@@ -1387,7 +1505,7 @@ function getCategoryUrl($categorySlug, $navigation)
       }
 
       .mobile-dropdown-btn.level-3:active {
-        padding-left: 56px;
+        background-color: #f8f9fa;
       }
 
       /* Level 3 Dropdown Content */
@@ -1402,7 +1520,8 @@ function getCategoryUrl($categorySlug, $navigation)
       }
 
       .mobile-dropdown .mobile-dropdown-content .mobile-dropdown-content .mobile-dropdown-content>li>a:active {
-        padding-left: 72px;
+        background-color: #e9ecef;
+        color: var(--nav-hover-color);
       }
 
       /* Responsive adjustments for smaller screens */
@@ -1461,22 +1580,69 @@ function getCategoryUrl($categorySlug, $navigation)
           font-size: 12px;
         }
       }
+
+      /* ========== MOBILE NAVIGATION CONTACT INFO & BUTTON ========== */
+      .mobile-nav-contact {
+        padding: 20px;
+        border-top: 2px solid #e8e8e8;
+        background: #f8f9fa;
+        margin-top: auto;
+      }
+
+      .mobile-contact-info {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin-bottom: 16px;
+      }
+
+      .mobile-contact-item {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        color: #2c3e50;
+        text-decoration: none;
+        font-size: 14px;
+        font-family: var(--nav-font);
+        font-weight: 500;
+        padding: 10px;
+        border-radius: 6px;
+        transition: all 0.2s ease;
+        background: #ffffff;
+      }
+
+      .mobile-contact-item i {
+        font-size: 18px;
+        color: var(--accent-color, #01337e);
+        min-width: 20px;
+      }
+
+      .mobile-contact-item:active {
+        background-color: #e9ecef;
+        color: var(--nav-hover-color);
+      }
+
+      .mobile-btn-getstarted {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 12px 24px;
+        background: var(--accent-color, #01337e);
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 600;
+        font-family: var(--nav-font);
+        border-radius: 6px;
+        transition: all 0.3s ease;
+      }
+
+      .mobile-btn-getstarted:active {
+        background: var(--nav-hover-color, #01337e);
+        transform: scale(0.98);
+      }
     </style>
 
-    <div class="dropdown me-3 lang-dropdown">
-      <button class="btn dropdown-toggle" type="button" id="languageDropdown" aria-expanded="false">
-        <i class="bi bi-translate"></i> <span id="currentLangText">Select Language</span> <i class="bi bi-chevron-down"
-          style="font-size: 12px;"></i>
-      </button>
-      <ul class="dropdown-menu" id="languageMenu">
-        <li><a class="dropdown-item" onclick="changeLanguage('en')">English</a></li>
-        <li><a class="dropdown-item" onclick="changeLanguage('ko')">Korean</a></li>
-        <li><a class="dropdown-item" onclick="changeLanguage('pl')">Polish</a></li>
-        <li><a class="dropdown-item" onclick="changeLanguage('pt')">Portuguese (Brazil)</a></li>
-        <li><a class="dropdown-item" onclick="changeLanguage('es')">Spanish</a></li>
-        <li><a class="dropdown-item" onclick="changeLanguage('th')">Thai</a></li>
-      </ul>
-    </div>
 
     <script type="text/javascript">
       function googleTranslateElementInit() {
@@ -1863,7 +2029,39 @@ function getCategoryUrl($categorySlug, $navigation)
     </script>
     <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-    <a class="btn-getstarted" href="/contact.php">Get Started</a>
+    <!-- Contact Information, Language Dropdown and Get Started Button - Desktop Only (hidden when hamburger shows) -->
+    <div class="header-right-section d-none d-xl-flex flex-column align-items-end">
+      <!-- Contact Information - Above Button -->
+      <div class="header-contact-info">
+        <a href="tel:+918200012841" class="header-contact-item">
+          <i class="bi bi-telephone"></i>
+          <span><?php echo htmlspecialchars($phoneNumber); ?></span>
+        </a>
+        <a href="mailto:<?php echo htmlspecialchars($emailAddress); ?>" class="header-contact-item">
+          <i class="bi bi-envelope"></i>
+          <span><?php echo htmlspecialchars($emailAddress); ?></span>
+        </a>
+      </div>
+      <!-- Language Dropdown and Get Started Button Row -->
+      <div class="header-actions d-flex align-items-center gap-3">
+        <div class="dropdown lang-dropdown">
+          <button class="btn dropdown-toggle" type="button" id="languageDropdown" aria-expanded="false">
+            <i class="bi bi-translate"></i> <span id="currentLangText">Select Language</span> <i
+              class="bi bi-chevron-down" style="font-size: 12px;"></i>
+          </button>
+          <ul class="dropdown-menu" id="languageMenu">
+            <li><a class="dropdown-item" onclick="changeLanguage('en')">English</a></li>
+            <li><a class="dropdown-item" onclick="changeLanguage('ko')">Korean</a></li>
+            <li><a class="dropdown-item" onclick="changeLanguage('pl')">Polish</a></li>
+            <li><a class="dropdown-item" onclick="changeLanguage('pt')">Portuguese (Brazil)</a></li>
+            <li><a class="dropdown-item" onclick="changeLanguage('es')">Spanish</a></li>
+            <li><a class="dropdown-item" onclick="changeLanguage('th')">Thai</a></li>
+          </ul>
+        </div>
+        <!-- Get Started Button -->
+        <a class="btn-getstarted" href="/contact.php">Get Started</a>
+      </div>
+    </div>
 
     <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
 
